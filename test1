@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ire3k295",
+        "title": "Cornell University",
+        "marker-color": "#00bcce",
+        "marker-size": "medium",
+        "marker-symbol": "airport",
+        "marker-zoom": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -76.702448,
+          42.753959
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
