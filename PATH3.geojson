@@ -1,0 +1,609 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.10590912307754,
+            42.37438396356263
+          ],
+          [
+            -71.10599439587364,
+            42.37439495755014
+          ],
+          [
+            -71.10603159233891,
+            42.37440040844902
+          ],
+          [
+            -71.10608203171584,
+            42.37440683766987
+          ]
+        ]
+      },
+      "type": "Feature",
+      "id": 1269,
+      "properties": {
+        "stroke": "#ff2600",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Potential_R_To": 1539,
+        "Street_Name": "Cambridge",
+        "ToNode": 1044,
+        "Label": "Cambridge St",
+        "Street_ID": 122,
+        "ZIP_Right": "02139",
+        "Direction": 0,
+        "GlobalID": "{5698B622-13AB-4F2D-AEFB-25635ABC31CD}",
+        "FromNode": 1049,
+        "ROADWAYS": "F",
+        "Potential_L_From": 1534,
+        "ZIP_Left": "02139",
+        "L_To": 1534,
+        "R_From": 1537,
+        "Street_Type": "St",
+        "L_From": 1534,
+        "ID": "Cambrid_St_38",
+        "MajorRoad": 2,
+        "Restriction": "F",
+        "R_To": 1539,
+        "Street": "Cambridge St",
+        "Potential_R_From": 1537,
+        "Potential_L_To": 1534
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.10513949077162,
+            42.37428421156998
+          ],
+          [
+            -71.10528718198806,
+            42.37430343301564
+          ],
+          [
+            -71.10579744914246,
+            42.37436931174694
+          ],
+          [
+            -71.10590912307754,
+            42.37438396356263
+          ]
+        ]
+      },
+      "type": "Feature",
+      "id": 1276,
+      "properties": {
+        "stroke": "#ff2600",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Potential_R_To": 1531,
+        "Street_Name": "Cambridge",
+        "ToNode": 1049,
+        "Label": "Cambridge St",
+        "Street_ID": 122,
+        "ZIP_Right": "02139",
+        "Direction": 0,
+        "GlobalID": "{E0C5398D-E94E-45A7-8645-05468FC07708}",
+        "FromNode": 1060,
+        "ROADWAYS": "F",
+        "Potential_L_From": 1520,
+        "ZIP_Left": "02139",
+        "L_To": 1530,
+        "R_From": 1525,
+        "Street_Type": "St",
+        "L_From": 1520,
+        "ID": "Cambrid_St_37",
+        "MajorRoad": 2,
+        "Restriction": "F",
+        "R_To": 1531,
+        "Street": "Cambridge St",
+        "Potential_R_From": 1525,
+        "Potential_L_To": 1530
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.10474086172263,
+            42.374232927861684
+          ],
+          [
+            -71.10486452011358,
+            42.3742484999753
+          ],
+          [
+            -71.10503143827138,
+            42.37427047698423
+          ],
+          [
+            -71.10513949077162,
+            42.37428421156998
+          ]
+        ]
+      },
+      "type": "Feature",
+      "id": 1277,
+      "properties": {
+        "stroke": "#ff2600",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Potential_R_To": -1,
+        "Street_Name": "Cambridge",
+        "ToNode": 1060,
+        "Label": "Cambridge St",
+        "Street_ID": 122,
+        "ZIP_Right": "02139",
+        "Direction": 0,
+        "GlobalID": "{68748632-70F1-4616-9D14-7E0DD650ED61}",
+        "FromNode": 1061,
+        "ROADWAYS": "F",
+        "Potential_L_From": -1,
+        "ZIP_Left": "02139",
+        "L_To": -1,
+        "R_From": -1,
+        "Street_Type": "St",
+        "L_From": -1,
+        "ID": "Cambrid_St_36",
+        "MajorRoad": 2,
+        "Restriction": "F",
+        "R_To": -1,
+        "Street": "Cambridge St",
+        "Potential_R_From": -1,
+        "Potential_L_To": -1
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.10341166695531,
+            42.37406263840854
+          ],
+          [
+            -71.10359297449041,
+            42.37408554522032
+          ],
+          [
+            -71.1046388046075,
+            42.37421921350641
+          ],
+          [
+            -71.10474086172263,
+            42.374232927861684
+          ]
+        ]
+      },
+      "type": "Feature",
+      "id": 1278,
+      "properties": {
+        "stroke": "#ff2600",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Potential_R_To": 1493,
+        "Street_Name": "Cambridge",
+        "ToNode": 1061,
+        "Label": "Cambridge St",
+        "Street_ID": 122,
+        "ZIP_Right": "02139",
+        "Direction": 0,
+        "GlobalID": "{1CBAF410-4A55-4EDF-90B6-4059574EA21F}",
+        "FromNode": 1068,
+        "ROADWAYS": "F",
+        "Potential_L_From": 1480,
+        "ZIP_Left": "02139",
+        "L_To": 1500,
+        "R_From": 1493,
+        "Street_Type": "St",
+        "L_From": 1480,
+        "ID": "Cambrid_St_35",
+        "MajorRoad": 2,
+        "Restriction": "F",
+        "R_To": 1493,
+        "Street": "Cambridge St",
+        "Potential_R_From": 1493,
+        "Potential_L_To": 1500
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.1066390386868,
+            42.37372354840245
+          ],
+          [
+            -71.10657486146623,
+            42.37380175457147
+          ],
+          [
+            -71.10615105993038,
+            42.37432241934311
+          ],
+          [
+            -71.10608203171584,
+            42.37440683766987
+          ]
+        ]
+      },
+      "type": "Feature",
+      "id": 2307,
+      "properties": {
+        "stroke": "#ff2600",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Potential_R_To": 32,
+        "Street_Name": "Ellsworth",
+        "ToNode": 1044,
+        "Label": "Ellsworth Ave",
+        "Street_ID": 242,
+        "ZIP_Right": "02139",
+        "Direction": -1,
+        "GlobalID": "{16618814-370C-4B91-83FF-35929BF70B82}",
+        "FromNode": 1091,
+        "ROADWAYS": "F",
+        "Potential_L_From": 23,
+        "ZIP_Left": "02139",
+        "L_To": 29,
+        "R_From": 24,
+        "Street_Type": "Ave",
+        "L_From": 23,
+        "ID": "Ellswor_Ave_3",
+        "Restriction": "F",
+        "R_To": 32,
+        "Street": "Ellsworth Ave",
+        "Potential_R_From": 24,
+        "Potential_L_To": 29
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.10703013744471,
+            42.37324730640611
+          ],
+          [
+            -71.10697808257888,
+            42.37331040692521
+          ],
+          [
+            -71.1067116771167,
+            42.37363560222052
+          ],
+          [
+            -71.1066390386868,
+            42.37372354840245
+          ]
+        ]
+      },
+      "type": "Feature",
+      "id": 2308,
+      "properties": {
+        "stroke": "#ff2600",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Potential_R_To": 22,
+        "Street_Name": "Ellsworth",
+        "ToNode": 1091,
+        "Label": "Ellsworth Ave",
+        "Street_ID": 242,
+        "ZIP_Right": "02139",
+        "Direction": -1,
+        "GlobalID": "{B87CCA17-6C5F-4B85-939F-9B560BA33CF4}",
+        "FromNode": 1124,
+        "ROADWAYS": "F",
+        "Potential_L_From": 15,
+        "ZIP_Left": "02139",
+        "L_To": 21,
+        "R_From": 18,
+        "Street_Type": "Ave",
+        "L_From": 15,
+        "ID": "Ellswor_Ave_2",
+        "Restriction": "F",
+        "R_To": 22,
+        "Street": "Ellsworth Ave",
+        "Potential_R_From": 18,
+        "Potential_L_To": 21
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.10799753430764,
+            42.372074496677946
+          ],
+          [
+            -71.10708099673539,
+            42.37318601286838
+          ],
+          [
+            -71.10703013744471,
+            42.37324730640611
+          ]
+        ]
+      },
+      "type": "Feature",
+      "id": 2309,
+      "properties": {
+        "stroke": "#ff2600",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Potential_R_To": 16,
+        "Street_Name": "Ellsworth",
+        "ToNode": 1124,
+        "Label": "Ellsworth Ave",
+        "Street_ID": 242,
+        "ZIP_Right": "02139",
+        "Direction": -1,
+        "GlobalID": "{3995098C-5932-4739-901A-2A1B29830993}",
+        "FromNode": 1229,
+        "ROADWAYS": "F",
+        "Potential_L_From": 3,
+        "ZIP_Left": "02139",
+        "L_To": 15,
+        "R_From": 2,
+        "Street_Type": "Ave",
+        "L_From": 3,
+        "ID": "Ellswor_Ave_1",
+        "Restriction": "F",
+        "R_To": 16,
+        "Street": "Ellsworth Ave",
+        "Potential_R_From": 2,
+        "Potential_L_To": 15
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10059197478982,
+          42.369486889699985
+        ]
+      },
+      "type": "Feature",
+      "id": 68,
+      "properties": {
+        "marker-color": "#00f900",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "SITE_NAME": "Rock and Roll Day Care",
+        "GlobalID": "{114ACD4E-6468-4CA4-ACB4-2A51542DB639}",
+        "SHEL_CAP": 0,
+        "EditDate": 2015,
+        "PHONE": "617-875-7851",
+        "PUBLICPRIV": "Private",
+        "ADDRESS": "166 Prospect St"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09938214572354,
+          42.36933550463981
+        ]
+      },
+      "type": "Feature",
+      "id": 6,
+      "properties": {
+        "marker-color": "#00f900",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "SITE_NAME": "Alef-Bet Child Care Center",
+        "GlobalID": "{79B8CAB7-F9AF-4DB9-B4AB-897583B6F40F}",
+        "SHEL_CAP": 0,
+        "PHONE": "617 349-4490",
+        "PUBLICPRIV": "Private",
+        "ADDRESS": "8 Tremont St"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10187179828363,
+          42.373597439786124
+        ]
+      },
+      "type": "Feature",
+      "id": 38,
+      "properties": {
+        "marker-color": "#00f900",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "SITE_NAME": "Little Folks Fellowship Nursery School",
+        "GlobalID": "{EB63B5F7-55C1-4484-84A8-BAB6563372B9}",
+        "SHEL_CAP": 0,
+        "PHONE": "617 868-4285",
+        "PUBLICPRIV": "Private",
+        "ADDRESS": "1418 Cambridge St"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10432237605943,
+          42.3745331587254
+        ]
+      },
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "marker-color": "#fffb00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "PHONE": "617-665-1000",
+        "SITE_NAME": "Cambridge Hospital",
+        "GlobalID": "{D5B797D0-6862-4481-BA91-730A9322689A}",
+        "ADDRESS": "1493 Cambridge St"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0997699994223,
+          42.36870999976414
+        ]
+      },
+      "type": "Feature",
+      "id": 11,
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Category": "Sculpture",
+        "First_Name": "Gene",
+        "Last_Name": "Cauthen",
+        "Title": "\"Workers\"",
+        "Gender": "Male",
+        "Interior_E": "Exterior",
+        "Longitude": -71.09977,
+        "About": "Workers, including construction workers and a taxi driver, honors the labors of many of the men and women who live in Area 4.",
+        "Commission": "City of Cambridge, Public Art Collection",
+        "Materials": "Bronze",
+        "Loc_Detail": "Broadway at Tremont",
+        "Location": "Sennott Park",
+        "Year": 1986,
+        "Latitude": 42.36871,
+        "Size": "24\" x 34\" x 14\" (pole: 5')",
+        "ArtID": 11
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1009000005873,
+          42.3735999997282
+        ]
+      },
+      "type": "Feature",
+      "id": 22,
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Category": "Mural",
+        "First_Name": "Ellery",
+        "Last_Name": "Eddy",
+        "Title": "\"Engine Company No. 5\"",
+        "Gender": "Female",
+        "Interior_E": "Exterior",
+        "Longitude": -71.1009,
+        "About": "In 1976 a young artist named Ellery Eddy responded to a Call to Artists put out by the Cambridge Arts Council for a competition involving local artists in the cultural enrichment of their communities. Eddy was awarded the commission to execute a large mural on the exposed west wall of the Inman Square Firehouse. The result is a three times life-size portrait of all members of Engine Company No. 5 in firefighting gear, along with the company dalmatian, posed around one of their pump trucks. Also included in the scene are two volunteer firemen straight out of history. Benjamin Franklin, who founded the first volunteer fire department in the country, stands on the running board in a pair of red sneakers. George Washington, who resided in Cambridge during the Siege of Boston, is holding a couple of pails. Eddy left the natural brick surrounding the mural exposed, in tribute to the handsome, Italian-style firehouse.",
+        "Commission": "City of Cambridge, Public Art Collection",
+        "Materials": "Painting",
+        "Loc_Detail": "1384 Cambridge Street",
+        "Location": "Inman Square Firehouse",
+        "Year": 1976,
+        "Latitude": 42.3736,
+        "Size": "15' x 25\"",
+        "ArtID": 22
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1033600002359,
+          42.3700199995575
+        ]
+      },
+      "type": "Feature",
+      "id": 31,
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Category": "Mural",
+        "First_Name": "Michael",
+        "Last_Name": "Glier",
+        "Title": "\"Town Green\"",
+        "Gender": "Male",
+        "Interior_E": "Interior",
+        "Longitude": -71.10336,
+        "About": "Glier is painting three large walls in the building's two-story atrium to transform the space into an indoor \"garden.\" The art is organized around four themes representing ideal missions of the municipal departments that occupy the building: 'Transparency,' 'Flow,' 'Growth,' and 'Pleasure.' The images relate to these concepts as they also give snapshots of the cityscape: birds and roses; ivy climbing the walls; bicyclists; rowers; a girl lying in the grass, reading; a view through the wall into an employee lunchroom, revealing office workers on a coffee break. Besides painting three large walls in the atrium, Glier will paint panels for public spaces on the upper floors, repeating some of the motifs developed in the atrium. In addition, Glier has worked with the building architects to make changes to the design of a central staircase, the floor pattern, and lighting.",
+        "Commission": "City of Cambridge, Public Art Collection",
+        "Materials": "Paintings",
+        "Loc_Detail": "City Hall Annex on the corner of Broadway and Inman St.",
+        "Location": "City Hall Annex",
+        "Year": 2004,
+        "Latitude": 42.37002,
+        "Size": "Not Available Mulitple Floors",
+        "ArtID": 31
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10380000005736,
+          42.37060000003084
+        ]
+      },
+      "type": "Feature",
+      "id": 81,
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Category": "Sculpture",
+        "First_Name": "Robin",
+        "Last_Name": "Shores",
+        "Title": "Untitled",
+        "Gender": "Female",
+        "Interior_E": "Exterior",
+        "Longitude": -71.1038,
+        "About": "Originally, these four bollards (thick posts) served an unadorned, practical purpose: to protect students from busy Broadway traffic. Robin Shores transformed the cement cylinders into sculptural surprises, with small openings near each base revealing three-dimensional hands, balls, sneakers, and other \"clues\" or \"traces\" left behind by the children of the Longfellow School.  As a Peace Corps volunteer Robin Shores worked in India and Africa, and currently teaches English in Bangladesh. An MFA graduate of the University of Buffalo, he has taught at the School of the Museum of Fine Arts, Boston as well as Boston University. His figurative stone sculptures are in many public and private collections.",
+        "Commission": "City of Cambridge, Public Art Collection",
+        "Materials": "Concrete",
+        "Loc_Detail": "359 Broadway",
+        "Location": "School/ Longfellow, 359 Broadway",
+        "Year": 1981,
+        "Latitude": 42.3706,
+        "Size": "4 bollards, each: 33\" x 18\" (diameter)",
+        "ArtID": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff2600",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.10341906547546,
+            42.374080873628586
+          ],
+          [
+            -71.10575795173645,
+            42.37120365587051
+          ],
+          [
+            -71.09736800193787,
+            42.36788240593331
+          ]
+        ]
+      }
+    }
+  ]
+}
