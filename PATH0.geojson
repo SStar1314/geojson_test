@@ -1,0 +1,221 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10059197478982,
+          42.369486889699985
+        ]
+      },
+      "type": "Feature",
+      "id": 68,
+      "properties": {
+        "marker-color": "#00f900",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "SITE_NAME": "Rock and Roll Day Care",
+        "GlobalID": "{114ACD4E-6468-4CA4-ACB4-2A51542DB639}",
+        "SHEL_CAP": 0,
+        "EditDate": 2015,
+        "PHONE": "617-875-7851",
+        "PUBLICPRIV": "Private",
+        "ADDRESS": "166 Prospect St"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09938214572354,
+          42.36933550463981
+        ]
+      },
+      "type": "Feature",
+      "id": 6,
+      "properties": {
+        "marker-color": "#00f900",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "SITE_NAME": "Alef-Bet Child Care Center",
+        "GlobalID": "{79B8CAB7-F9AF-4DB9-B4AB-897583B6F40F}",
+        "SHEL_CAP": 0,
+        "PHONE": "617 349-4490",
+        "PUBLICPRIV": "Private",
+        "ADDRESS": "8 Tremont St"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10187179828363,
+          42.373597439786124
+        ]
+      },
+      "type": "Feature",
+      "id": 38,
+      "properties": {
+        "marker-color": "#00f900",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "SITE_NAME": "Little Folks Fellowship Nursery School",
+        "GlobalID": "{EB63B5F7-55C1-4484-84A8-BAB6563372B9}",
+        "SHEL_CAP": 0,
+        "PHONE": "617 868-4285",
+        "PUBLICPRIV": "Private",
+        "ADDRESS": "1418 Cambridge St"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0997699994223,
+          42.36870999976414
+        ]
+      },
+      "type": "Feature",
+      "id": 11,
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Category": "Sculpture",
+        "First_Name": "Gene",
+        "Last_Name": "Cauthen",
+        "Title": "\"Workers\"",
+        "Gender": "Male",
+        "Interior_E": "Exterior",
+        "Longitude": -71.09977,
+        "About": "Workers, including construction workers and a taxi driver, honors the labors of many of the men and women who live in Area 4.",
+        "Commission": "City of Cambridge, Public Art Collection",
+        "Materials": "Bronze",
+        "Loc_Detail": "Broadway at Tremont",
+        "Location": "Sennott Park",
+        "Year": 1986,
+        "Latitude": 42.36871,
+        "Size": "24\" x 34\" x 14\" (pole: 5')",
+        "ArtID": 11
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1009000005873,
+          42.3735999997282
+        ]
+      },
+      "type": "Feature",
+      "id": 22,
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Category": "Mural",
+        "First_Name": "Ellery",
+        "Last_Name": "Eddy",
+        "Title": "\"Engine Company No. 5\"",
+        "Gender": "Female",
+        "Interior_E": "Exterior",
+        "Longitude": -71.1009,
+        "About": "In 1976 a young artist named Ellery Eddy responded to a Call to Artists put out by the Cambridge Arts Council for a competition involving local artists in the cultural enrichment of their communities. Eddy was awarded the commission to execute a large mural on the exposed west wall of the Inman Square Firehouse. The result is a three times life-size portrait of all members of Engine Company No. 5 in firefighting gear, along with the company dalmatian, posed around one of their pump trucks. Also included in the scene are two volunteer firemen straight out of history. Benjamin Franklin, who founded the first volunteer fire department in the country, stands on the running board in a pair of red sneakers. George Washington, who resided in Cambridge during the Siege of Boston, is holding a couple of pails. Eddy left the natural brick surrounding the mural exposed, in tribute to the handsome, Italian-style firehouse.",
+        "Commission": "City of Cambridge, Public Art Collection",
+        "Materials": "Painting",
+        "Loc_Detail": "1384 Cambridge Street",
+        "Location": "Inman Square Firehouse",
+        "Year": 1976,
+        "Latitude": 42.3736,
+        "Size": "15' x 25\"",
+        "ArtID": 22
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1033600002359,
+          42.3700199995575
+        ]
+      },
+      "type": "Feature",
+      "id": 31,
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Category": "Mural",
+        "First_Name": "Michael",
+        "Last_Name": "Glier",
+        "Title": "\"Town Green\"",
+        "Gender": "Male",
+        "Interior_E": "Interior",
+        "Longitude": -71.10336,
+        "About": "Glier is painting three large walls in the building's two-story atrium to transform the space into an indoor \"garden.\" The art is organized around four themes representing ideal missions of the municipal departments that occupy the building: 'Transparency,' 'Flow,' 'Growth,' and 'Pleasure.' The images relate to these concepts as they also give snapshots of the cityscape: birds and roses; ivy climbing the walls; bicyclists; rowers; a girl lying in the grass, reading; a view through the wall into an employee lunchroom, revealing office workers on a coffee break. Besides painting three large walls in the atrium, Glier will paint panels for public spaces on the upper floors, repeating some of the motifs developed in the atrium. In addition, Glier has worked with the building architects to make changes to the design of a central staircase, the floor pattern, and lighting.",
+        "Commission": "City of Cambridge, Public Art Collection",
+        "Materials": "Paintings",
+        "Loc_Detail": "City Hall Annex on the corner of Broadway and Inman St.",
+        "Location": "City Hall Annex",
+        "Year": 2004,
+        "Latitude": 42.37002,
+        "Size": "Not Available Mulitple Floors",
+        "ArtID": 31
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10380000005736,
+          42.37060000003084
+        ]
+      },
+      "type": "Feature",
+      "id": 81,
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Category": "Sculpture",
+        "First_Name": "Robin",
+        "Last_Name": "Shores",
+        "Title": "Untitled",
+        "Gender": "Female",
+        "Interior_E": "Exterior",
+        "Longitude": -71.1038,
+        "About": "Originally, these four bollards (thick posts) served an unadorned, practical purpose: to protect students from busy Broadway traffic. Robin Shores transformed the cement cylinders into sculptural surprises, with small openings near each base revealing three-dimensional hands, balls, sneakers, and other \"clues\" or \"traces\" left behind by the children of the Longfellow School.  As a Peace Corps volunteer Robin Shores worked in India and Africa, and currently teaches English in Bangladesh. An MFA graduate of the University of Buffalo, he has taught at the School of the Museum of Fine Arts, Boston as well as Boston University. His figurative stone sculptures are in many public and private collections.",
+        "Commission": "City of Cambridge, Public Art Collection",
+        "Materials": "Concrete",
+        "Loc_Detail": "359 Broadway",
+        "Location": "School/ Longfellow, 359 Broadway",
+        "Year": 1981,
+        "Latitude": 42.3706,
+        "Size": "4 bollards, each: 33\" x 18\" (diameter)",
+        "ArtID": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff2600",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.10797882080078,
+            42.37208348024931
+          ],
+          [
+            -71.09733581542969,
+            42.36788240593331
+          ]
+        ]
+      }
+    }
+  ]
+}
