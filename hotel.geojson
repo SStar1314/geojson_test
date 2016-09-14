@@ -3359,6 +3359,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.11078168408964,
+          42.38229515097606
+        ]
+      },
+      "id": 1486,
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00f900",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Intersection": "Cardinal Medeiros Ave & Hampshire St & Portland St",
+        "IntersectingStreetCount": 3,
+        "P_X": 766485.86999999,
+        "P_Y": 2958771.26,
+        "NodeNumber": 1670,
+        "GlobalID": "{602100F3-9F32-41E6-8AFC-47D65B0C7EEB}"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.13967526454157,
           42.38631024642667
         ]
@@ -3367,7 +3389,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "",
-        "marker-color": "#00f900",
+        "marker-color": "#0433ff",
         "marker-size": "medium"
       }
     },
