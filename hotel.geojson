@@ -3366,7 +3366,7 @@
       "id": 1486,
       "type": "Feature",
       "properties": {
-        "marker-color": "#00f900",
+        "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "",
         "Intersection": "Cardinal Medeiros Ave & Hampshire St & Portland St",
@@ -3389,7 +3389,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "",
-        "marker-color": "#0433ff",
+        "marker-color": "#00f900",
         "marker-size": "medium"
       }
     },
