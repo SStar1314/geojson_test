@@ -1,0 +1,3978 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.09966196611784,
+            42.37357651649618
+          ],
+          [
+            -71.09974361004373,
+            42.373587502497564
+          ],
+          [
+            -71.10052886812072,
+            42.373689128578185
+          ]
+        ]
+      },
+      "id": 1,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Cambridge",
+        "Potential_R_To": 1369,
+        "Potential_L_To": 1378,
+        "ToNode": 1094,
+        "Label": "Cambridge St",
+        "Street_ID": 122,
+        "MajorRoad": 2,
+        "FromNode": 1097,
+        "Direction": "0",
+        "L_To": 1378,
+        "R_To": 1369,
+        "GlobalID": "{4319B49E-14C6-4FBB-8A0C-C01A07164D73}",
+        "Street_Type": "St",
+        "L_From": 1334,
+        "Restriction": "F",
+        "ZIP_Right": "02139",
+        "Potential_L_From": 1334,
+        "ZIP_Left": "02139",
+        "Street": "Cambridge St",
+        "ROADWAYS": "F",
+        "ID": "Cambrid_St_29",
+        "Potential_R_From": 1337,
+        "R_From": 1337
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.10052886812072,
+            42.373689128578185
+          ],
+          [
+            -71.10083740836019,
+            42.37372941244966
+          ]
+        ]
+      },
+      "id": 2,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Cambridge",
+        "Potential_R_To": 1385,
+        "Potential_L_To": 1384,
+        "ToNode": 1089,
+        "Label": "Cambridge St",
+        "Street_ID": 122,
+        "MajorRoad": 2,
+        "FromNode": 1094,
+        "Direction": "0",
+        "L_To": 1384,
+        "R_To": 1385,
+        "GlobalID": "{ED06F58A-FCCB-4318-BB2D-0D88BB24D6E9}",
+        "Street_Type": "St",
+        "L_From": 1384,
+        "Restriction": "F",
+        "ZIP_Right": "02139",
+        "Potential_L_From": 1384,
+        "ZIP_Left": "02139",
+        "Street": "Cambridge St",
+        "ROADWAYS": "F",
+        "ID": "Cambrid_St_30",
+        "Potential_R_From": 1385,
+        "R_From": 1385
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.09534561272346,
+            42.373017016497876
+          ],
+          [
+            -71.09527756463751,
+            42.373137077411364
+          ],
+          [
+            -71.09504113574906,
+            42.373649442472065
+          ],
+          [
+            -71.094796287841,
+            42.37416981748729
+          ],
+          [
+            -71.09474744436253,
+            42.374289945709336
+          ]
+        ]
+      },
+      "id": 79,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Elm",
+        "Potential_R_To": 318,
+        "Potential_L_To": 333,
+        "ToNode": 1056,
+        "Label": "Elm St",
+        "Street_ID": 244,
+        "FromNode": 1145,
+        "Direction": "1",
+        "L_To": 333,
+        "R_To": 318,
+        "GlobalID": "{C0AE14BB-F314-40EC-AE84-380CC8913BB0}",
+        "Street_Type": "St",
+        "L_From": 289,
+        "Restriction": "F",
+        "ZIP_Right": "02139",
+        "Potential_L_From": 289,
+        "ZIP_Left": "02139",
+        "Street": "Elm St",
+        "ROADWAYS": "F",
+        "ID": "Elm_St_8",
+        "Potential_R_From": 318,
+        "R_From": 318
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.09534561272346,
+            42.373017016497876
+          ],
+          [
+            -71.09550531379448,
+            42.37303807642516
+          ],
+          [
+            -71.0958198797644,
+            42.373078394971174
+          ],
+          [
+            -71.09611280871462,
+            42.37311682559789
+          ],
+          [
+            -71.09623889946775,
+            42.37313332108798
+          ]
+        ]
+      },
+      "id": 82,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Cambridge",
+        "Potential_R_To": 1127,
+        "Potential_L_To": 1132,
+        "ToNode": 1130,
+        "Label": "Cambridge St",
+        "Street_ID": 122,
+        "MajorRoad": 2,
+        "FromNode": 1145,
+        "Direction": "0",
+        "L_To": 1132,
+        "R_To": 1127,
+        "GlobalID": "{D5F2AF65-D72D-477B-A5CD-5F841E928362}",
+        "Street_Type": "St",
+        "L_From": 1092,
+        "Restriction": "F",
+        "ZIP_Right": "02139",
+        "Potential_L_From": 1092,
+        "ZIP_Left": "02139",
+        "Street": "Cambridge St",
+        "ROADWAYS": "F",
+        "ID": "Cambrid_St_23",
+        "Potential_R_From": 1093,
+        "R_From": 1093
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.09328343364402,
+            42.36968005237039
+          ],
+          [
+            -71.09330225519341,
+            42.369739830073904
+          ],
+          [
+            -71.09332699406676,
+            42.36981743776507
+          ],
+          [
+            -71.09335411556245,
+            42.36989859373401
+          ],
+          [
+            -71.0933823923558,
+            42.36998425406765
+          ]
+        ]
+      },
+      "id": 106,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Webster",
+        "Potential_R_To": 133,
+        "Potential_L_To": 144,
+        "ToNode": 1410,
+        "Label": "Webster Ave",
+        "Street_ID": 800,
+        "FromNode": 1439,
+        "Direction": "0",
+        "L_To": 144,
+        "R_To": 133,
+        "GlobalID": "{2204742C-45EF-480F-ABA2-999646080409}",
+        "Street_Type": "Ave",
+        "L_From": 134,
+        "Restriction": "F",
+        "ZIP_Right": "02141",
+        "Potential_L_From": 134,
+        "ZIP_Left": "02141",
+        "Street": "Webster Ave",
+        "ROADWAYS": "F",
+        "ID": "Webster_Ave_7",
+        "Potential_R_From": 129,
+        "R_From": 129
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0933823923558,
+            42.36998425406765
+          ],
+          [
+            -71.09341532553323,
+            42.37009394153877
+          ],
+          [
+            -71.09347068687381,
+            42.37027233766705
+          ],
+          [
+            -71.0935236633174,
+            42.370441834519156
+          ],
+          [
+            -71.0935271210943,
+            42.370462345002856
+          ],
+          [
+            -71.09353171998629,
+            42.37049531763404
+          ],
+          [
+            -71.09353040408692,
+            42.37051581124877
+          ],
+          [
+            -71.09352793578732,
+            42.37052559888602
+          ],
+          [
+            -71.09351324025114,
+            42.37056654348466
+          ],
+          [
+            -71.09342812491731,
+            42.37072216119485
+          ],
+          [
+            -71.0933904138093,
+            42.37079150795547
+          ]
+        ]
+      },
+      "id": 107,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Webster",
+        "Potential_R_To": 163,
+        "Potential_L_To": 170,
+        "ToNode": 1342,
+        "EditDate": "2015",
+        "Label": "Webster Ave",
+        "Street_ID": 800,
+        "FromNode": 1410,
+        "Direction": "0",
+        "L_To": 170,
+        "R_To": 163,
+        "GlobalID": "{5A50A6C7-9EA7-4386-A123-0698AB996259}",
+        "Street_Type": "Ave",
+        "L_From": 146,
+        "Restriction": "F",
+        "ZIP_Right": "02141",
+        "Potential_L_From": 146,
+        "ZIP_Left": "02141",
+        "Street": "Webster Ave",
+        "ROADWAYS": "F",
+        "ID": "Webster_Ave_8",
+        "Potential_R_From": 147,
+        "R_From": 147
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.09623889946775,
+            42.37313332108798
+          ],
+          [
+            -71.09642500142279,
+            42.373158012257385
+          ],
+          [
+            -71.09672994679143,
+            42.37319829455669
+          ],
+          [
+            -71.09697969232631,
+            42.37323036996304
+          ],
+          [
+            -71.09705171931792,
+            42.37324041864036
+          ]
+        ]
+      },
+      "id": 114,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Cambridge",
+        "Potential_R_To": 1175,
+        "Potential_L_To": 1174,
+        "ToNode": 1118,
+        "Label": "Cambridge St",
+        "Street_ID": 122,
+        "MajorRoad": 2,
+        "FromNode": 1130,
+        "Direction": "0",
+        "L_To": 1174,
+        "R_To": 1175,
+        "GlobalID": "{5340BD38-23E5-4187-9D1B-1E8E8FB80B27}",
+        "Street_Type": "St",
+        "L_From": 1144,
+        "Restriction": "F",
+        "ZIP_Right": "02139",
+        "Potential_L_From": 1144,
+        "ZIP_Left": "02139",
+        "Street": "Cambridge St",
+        "ROADWAYS": "F",
+        "ID": "Cambrid_St_24",
+        "Potential_R_From": 1149,
+        "R_From": 1149
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.09705171931792,
+            42.37324041864036
+          ],
+          [
+            -71.09708773570667,
+            42.373244990199694
+          ],
+          [
+            -71.09712977845598,
+            42.37325048839857
+          ]
+        ]
+      },
+      "id": 115,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Cambridge",
+        "Potential_R_To": -1,
+        "Potential_L_To": -1,
+        "ToNode": 1117,
+        "Label": "Cambridge St",
+        "Street_ID": 122,
+        "MajorRoad": 2,
+        "FromNode": 1118,
+        "Direction": "0",
+        "L_To": -1,
+        "R_To": -1,
+        "GlobalID": "{37BE10C5-BB19-4F5B-92EC-44F66F4D4B45}",
+        "Street_Type": "St",
+        "L_From": -1,
+        "Restriction": "F",
+        "ZIP_Right": "02139",
+        "Potential_L_From": -1,
+        "ZIP_Left": "02139",
+        "Street": "Cambridge St",
+        "ROADWAYS": "F",
+        "ID": "Cambrid_St_25",
+        "Potential_R_From": -1,
+        "R_From": -1
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.09178168408965,
+            42.366295150976065
+          ],
+          [
+            -71.09194423207676,
+            42.366428486404516
+          ],
+          [
+            -71.0923314582322,
+            42.36674704781964
+          ],
+          [
+            -71.0923685192652,
+            42.366778379367545
+          ]
+        ]
+      },
+      "id": 152,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Hampshire",
+        "Potential_R_To": 41,
+        "Potential_L_To": 40,
+        "ToNode": 1634,
+        "Label": "Hampshire St",
+        "Street_ID": 359,
+        "MajorRoad": 2,
+        "FromNode": 1670,
+        "Direction": "0",
+        "L_To": 40,
+        "R_To": 41,
+        "GlobalID": "{91D98530-1E79-40B5-81D6-23C224646D04}",
+        "Street_Type": "St",
+        "L_From": 36,
+        "Restriction": "F",
+        "ZIP_Right": "02139",
+        "Potential_L_From": 36,
+        "ZIP_Left": "02139",
+        "Street": "Hampshire St",
+        "ROADWAYS": "F",
+        "ID": "Hampshi_St_2",
+        "Potential_R_From": 41,
+        "R_From": 41
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.09266294612495,
+            42.36769984189112
+          ],
+          [
+            -71.09268295917006,
+            42.36776404191538
+          ],
+          [
+            -71.09281957582647,
+            42.36819578522414
+          ],
+          [
+            -71.09285608482611,
+            42.36830729665737
+          ]
+        ]
+      },
+      "id": 155,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Webster",
+        "Potential_R_To": 53,
+        "Potential_L_To": 64,
+        "ToNode": 1530,
+        "Label": "Webster Ave",
+        "Street_ID": 800,
+        "FromNode": 1569,
+        "Direction": "0",
+        "L_To": 64,
+        "R_To": 53,
+        "GlobalID": "{AABD4728-A414-46D8-95E3-3FDF7E45D528}",
+        "Street_Type": "Ave",
+        "L_From": 44,
+        "Restriction": "F",
+        "ZIP_Right": "02141",
+        "Potential_L_From": 44,
+        "ZIP_Left": "02141",
+        "Street": "Webster Ave",
+        "ROADWAYS": "F",
+        "ID": "Webster_Ave_3",
+        "Potential_R_From": 45,
+        "R_From": 45
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.09285608482611,
+            42.36830729665737
+          ],
+          [
+            -71.09288431448876,
+            42.36840006414876
+          ],
+          [
+            -71.09294557004121,
+            42.36859362878965
+          ],
+          [
+            -71.09296909271718,
+            42.36867032673088
+          ]
+        ]
+      },
+      "id": 156,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Webster",
+        "Potential_R_To": 83,
+        "Potential_L_To": -1,
+        "ToNode": 1513,
+        "Label": "Webster Ave",
+        "Street_ID": 800,
+        "FromNode": 1530,
+        "Direction": "0",
+        "L_To": -1,
+        "R_To": 83,
+        "GlobalID": "{4AFE5307-05B7-49C5-9CA2-986AE93CDE18}",
+        "Street_Type": "Ave",
+        "L_From": -1,
+        "Restriction": "F",
+        "ZIP_Right": "02141",
+        "Potential_L_From": -1,
+        "ZIP_Left": "02141",
+        "Street": "Webster Ave",
+        "ROADWAYS": "F",
+        "ID": "Webster_Ave_4",
+        "Potential_R_From": 67,
+        "R_From": 67
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.11992771969902,
+            42.37999100509568
+          ],
+          [
+            -71.12000102226447,
+            42.379993908986464
+          ],
+          [
+            -71.12009470712023,
+            42.37999866378359
+          ],
+          [
+            -71.12022580631259,
+            42.379979503979364
+          ],
+          [
+            -71.12142267920898,
+            42.37979545261392
+          ],
+          [
+            -71.12153455848286,
+            42.379777984275435
+          ]
+        ]
+      },
+      "id": 192,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Chauncy",
+        "Potential_R_To": 9,
+        "Potential_L_To": 10,
+        "ToNode": 701,
+        "Label": "Chauncy St",
+        "Street_ID": 150,
+        "MajorRoad": 2,
+        "FromNode": 2194,
+        "Direction": "-1",
+        "L_To": 10,
+        "R_To": 9,
+        "GlobalID": "{2D081C02-F60E-4018-9DDB-C91740FB293E}",
+        "Street_Type": "St",
+        "L_From": 2,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 2,
+        "ZIP_Left": "02138",
+        "Street": "Chauncy St",
+        "ROADWAYS": "F",
+        "ID": "Chauncy_St_4",
+        "Potential_R_From": 1,
+        "R_From": 1
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.11992771969902,
+            42.37999100509568
+          ],
+          [
+            -71.11991126047967,
+            42.380130815883646
+          ],
+          [
+            -71.11982874877876,
+            42.380859395182505
+          ]
+        ]
+      },
+      "id": 194,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Massachusetts",
+        "Potential_R_To": 1627,
+        "Potential_L_To": 1626,
+        "ToNode": 2197,
+        "Label": "Massachusetts Ave",
+        "Street_ID": 520,
+        "MajorRoad": 1,
+        "FromNode": 2194,
+        "Direction": "0",
+        "L_To": 1626,
+        "R_To": 1627,
+        "GlobalID": "{3CB3A668-E72B-4974-92F6-936E0B779BD5}",
+        "Street_Type": "Ave",
+        "L_From": 1610,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 1610,
+        "ZIP_Left": "02138",
+        "Alias": "Mass Ave",
+        "Street": "Massachusetts Ave",
+        "ROADWAYS": "T",
+        "ID": "Massach_Ave_53",
+        "Potential_R_From": 1607,
+        "R_From": 1607
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0935372014096,
+            42.372072413387386
+          ],
+          [
+            -71.09350661976804,
+            42.37215517645615
+          ],
+          [
+            -71.09341000916179,
+            42.372417662727194
+          ],
+          [
+            -71.09334029574683,
+            42.37260631856076
+          ],
+          [
+            -71.09328771214186,
+            42.372749592998304
+          ]
+        ]
+      },
+      "id": 202,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Windsor",
+        "Potential_R_To": 476,
+        "Potential_L_To": 475,
+        "ToNode": 1168,
+        "Label": "Windsor St",
+        "Street_ID": 822,
+        "FromNode": 1224,
+        "Direction": "-1",
+        "L_To": 475,
+        "R_To": 476,
+        "GlobalID": "{78FDA854-A2C2-41A2-99B4-B8221E53D4E5}",
+        "Street_Type": "St",
+        "L_From": 461,
+        "Restriction": "T",
+        "ZIP_Right": "02141",
+        "Potential_L_From": 461,
+        "ZIP_Left": "02141",
+        "Street": "Windsor St",
+        "ROADWAYS": "F",
+        "ID": "Windsor_St_16",
+        "Potential_R_From": 464,
+        "R_From": 464
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.11212135047249,
+            42.381503687273266
+          ],
+          [
+            -71.11204050667857,
+            42.381553329291854
+          ],
+          [
+            -71.11171138928677,
+            42.38172240612117
+          ],
+          [
+            -71.11159569494353,
+            42.38177547004933
+          ],
+          [
+            -71.11135235891327,
+            42.381868193584296
+          ],
+          [
+            -71.11112836285716,
+            42.381939605683606
+          ],
+          [
+            -71.11096698920288,
+            42.38199342011489
+          ]
+        ]
+      },
+      "id": 372,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Museum",
+        "Potential_R_To": -1,
+        "Potential_L_To": 111,
+        "ToNode": 612,
+        "Label": "Museum St",
+        "Street_ID": 557,
+        "FromNode": 632,
+        "Direction": "0",
+        "L_To": 111,
+        "R_To": -1,
+        "GlobalID": "{83E5849A-250C-4002-A308-AD606CA751A8}",
+        "Street_Type": "St",
+        "L_From": 107,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 107,
+        "ZIP_Left": "02138",
+        "Street": "Museum St",
+        "ROADWAYS": "F",
+        "ID": "Museum_St_2",
+        "Potential_R_From": -1,
+        "R_From": -1
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.11212135047249,
+            42.381503687273266
+          ],
+          [
+            -71.11219901902801,
+            42.381573456359135
+          ],
+          [
+            -71.11237355254435,
+            42.38172730076256
+          ],
+          [
+            -71.11244169021988,
+            42.38178811934476
+          ]
+        ]
+      },
+      "id": 375,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Carver",
+        "Potential_R_To": 10,
+        "Potential_L_To": -1,
+        "ToNode": 621,
+        "Label": "Carver St",
+        "Street_ID": 135,
+        "FromNode": 632,
+        "Direction": "0",
+        "L_To": -1,
+        "R_To": 10,
+        "GlobalID": "{8FB636F3-36C8-47A9-AA9D-C2BC86A51E9F}",
+        "Street_Type": "St",
+        "L_From": -1,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": -1,
+        "ZIP_Left": "02138",
+        "Street": "Carver St",
+        "ROADWAYS": "F",
+        "ID": "Carver_St_1",
+        "Potential_R_From": 2,
+        "R_From": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.11639771409872,
+            42.38084888430697
+          ],
+          [
+            -71.11451136642638,
+            42.38077397745277
+          ]
+        ]
+      },
+      "id": 382,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Hammond",
+        "Potential_R_To": -1,
+        "Potential_L_To": 39,
+        "ToNode": 662,
+        "Label": "Hammond St",
+        "Street_ID": 356,
+        "FromNode": 658,
+        "Direction": "1",
+        "L_To": 39,
+        "R_To": -1,
+        "GlobalID": "{AFAC3E5B-D1B0-42C9-8EDA-18F274CE47E1}",
+        "Street_Type": "St",
+        "L_From": 3,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 3,
+        "ZIP_Left": "02138",
+        "Street": "Hammond St",
+        "ROADWAYS": "F",
+        "ID": "Hammond_St_2",
+        "Potential_R_From": -1,
+        "R_From": -1
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.14344557444775,
+            42.3884488310926
+          ],
+          [
+            -71.14356442808574,
+            42.388469670024165
+          ],
+          [
+            -71.14367364937502,
+            42.38849851909808
+          ],
+          [
+            -71.14382483043039,
+            42.38854355071231
+          ],
+          [
+            -71.14395920660961,
+            42.38858850268711
+          ],
+          [
+            -71.14409838800583,
+            42.388628145891616
+          ]
+        ]
+      },
+      "id": 494,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Concord",
+        "Potential_R_To": 555,
+        "Potential_L_To": 548,
+        "ToNode": 354,
+        "Label": "Concord Ave",
+        "Street_ID": 175,
+        "MajorRoad": 2,
+        "FromNode": 2184,
+        "Direction": "0",
+        "L_To": -1,
+        "R_To": 555,
+        "GlobalID": "{F7722B32-539A-4328-A22E-CDFC43FAE603}",
+        "Street_Type": "Ave",
+        "L_From": -1,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 548,
+        "ZIP_Left": "02138",
+        "Street": "Concord Ave",
+        "ROADWAYS": "N",
+        "ID": "Concord_Ave_23",
+        "Potential_R_From": 555,
+        "R_From": 555
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.12728927179464,
+            42.38027703839197
+          ],
+          [
+            -71.12738032115777,
+            42.380327220466825
+          ],
+          [
+            -71.12740787920112,
+            42.380342456971235
+          ],
+          [
+            -71.12750369785475,
+            42.38039355993511
+          ]
+        ]
+      },
+      "id": 569,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Concord",
+        "Potential_R_To": -1,
+        "Potential_L_To": -1,
+        "ToNode": 679,
+        "Label": "Concord Ave",
+        "Street_ID": 175,
+        "MajorRoad": 2,
+        "FromNode": 682,
+        "Direction": "0",
+        "L_To": -1,
+        "R_To": -1,
+        "GlobalID": "{AF64AB83-D74F-4071-9D3F-6697B587AB67}",
+        "Street_Type": "Ave",
+        "L_From": -1,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": -1,
+        "ZIP_Left": "02138",
+        "Street": "Concord Ave",
+        "ROADWAYS": "F",
+        "ID": "Concord_Ave_5",
+        "Potential_R_From": -1,
+        "R_From": -1
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.12571286214958,
+            42.37941478356169
+          ],
+          [
+            -71.12589971985385,
+            42.379516949289005
+          ],
+          [
+            -71.12722459634011,
+            42.38024206151508
+          ],
+          [
+            -71.12728927179464,
+            42.38027703839197
+          ]
+        ]
+      },
+      "id": 570,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Concord",
+        "Potential_R_To": 41,
+        "Potential_L_To": 40,
+        "ToNode": 682,
+        "Label": "Concord Ave",
+        "Street_ID": 175,
+        "MajorRoad": 2,
+        "FromNode": 713,
+        "Direction": "0",
+        "L_To": 40,
+        "R_To": 41,
+        "GlobalID": "{36E4E713-3FC5-4DBF-A073-FC6A474E2EA1}",
+        "Street_Type": "Ave",
+        "L_From": 34,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 34,
+        "ZIP_Left": "02138",
+        "Street": "Concord Ave",
+        "ROADWAYS": "F",
+        "ID": "Concord_Ave_4",
+        "Potential_R_From": 29,
+        "R_From": 29
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.12449697807003,
+            42.378752354719154
+          ],
+          [
+            -71.12463115568764,
+            42.37882496160117
+          ],
+          [
+            -71.12557986653755,
+            42.379342154365524
+          ],
+          [
+            -71.12571286214958,
+            42.37941478356169
+          ]
+        ]
+      },
+      "id": 571,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Concord",
+        "Potential_R_To": 27,
+        "Potential_L_To": 26,
+        "ToNode": 713,
+        "Label": "Concord Ave",
+        "Street_ID": 175,
+        "MajorRoad": 2,
+        "FromNode": 743,
+        "Direction": "0",
+        "L_To": 26,
+        "R_To": 27,
+        "GlobalID": "{2E49C5B8-481C-454C-8B98-FA36615F08FE}",
+        "Street_Type": "Ave",
+        "L_From": 14,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 14,
+        "ZIP_Left": "02138",
+        "Street": "Concord Ave",
+        "ROADWAYS": "F",
+        "ID": "Concord_Ave_3",
+        "Potential_R_From": 15,
+        "R_From": 15
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.12417602924423,
+            42.37896871923666
+          ],
+          [
+            -71.12431100621127,
+            42.37890678742425
+          ],
+          [
+            -71.12443287602666,
+            42.378827003660376
+          ],
+          [
+            -71.12449697807003,
+            42.378752354719154
+          ]
+        ]
+      },
+      "id": 575,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Chauncy",
+        "Potential_R_To": -1,
+        "Potential_L_To": -1,
+        "ToNode": 743,
+        "Label": "Chauncy St",
+        "Street_ID": 150,
+        "MajorRoad": 2,
+        "FromNode": 726,
+        "Direction": "1",
+        "L_To": -1,
+        "R_To": -1,
+        "GlobalID": "{655C0403-AB65-479C-A28B-9BCE7DE4F122}",
+        "Street_Type": "St",
+        "L_From": -1,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": -1,
+        "ZIP_Left": "02138",
+        "Street": "Chauncy St",
+        "ROADWAYS": "F",
+        "ID": "Chauncy_St_1",
+        "Potential_R_From": -1,
+        "R_From": -1
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.09451235950644,
+            42.37291161848865
+          ],
+          [
+            -71.09445004797787,
+            42.37307179010013
+          ],
+          [
+            -71.09442778771054,
+            42.37316704083655
+          ],
+          [
+            -71.09442630065597,
+            42.373214261149435
+          ]
+        ]
+      },
+      "id": 764,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Columbia",
+        "Potential_R_To": -1,
+        "Potential_L_To": -1,
+        "ToNode": 1122,
+        "Label": "Columbia St",
+        "Street_ID": 172,
+        "FromNode": 1155,
+        "Direction": "0",
+        "L_To": -1,
+        "R_To": -1,
+        "GlobalID": "{F9AB9C58-C30F-4714-AAD9-3BB8FA9BBD53}",
+        "Street_Type": "St",
+        "L_From": -1,
+        "Restriction": "F",
+        "ZIP_Right": "02141",
+        "Potential_L_From": -1,
+        "ZIP_Left": "02141",
+        "Street": "Columbia St",
+        "ROADWAYS": "F",
+        "ID": "Columbi_St_17",
+        "Potential_R_From": -1,
+        "R_From": -1
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.12750369785475,
+            42.38039355993511
+          ],
+          [
+            -71.12764266768481,
+            42.38047062415956
+          ],
+          [
+            -71.12818415203654,
+            42.38076640221001
+          ],
+          [
+            -71.1287400126785,
+            42.38106669689728
+          ],
+          [
+            -71.12881667153752,
+            42.381109724247516
+          ]
+        ]
+      },
+      "id": 765,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Concord",
+        "Potential_R_To": -1,
+        "Potential_L_To": 56,
+        "ToNode": 653,
+        "Label": "Concord Ave",
+        "Street_ID": 175,
+        "MajorRoad": 2,
+        "FromNode": 679,
+        "Direction": "0",
+        "L_To": 56,
+        "R_To": -1,
+        "GlobalID": "{39F3A81C-F254-4FE2-87E0-F982FEFA3D61}",
+        "Street_Type": "Ave",
+        "L_From": 44,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 44,
+        "ZIP_Left": "02138",
+        "Street": "Concord Ave",
+        "ROADWAYS": "F",
+        "ID": "Concord_Ave_6",
+        "Potential_R_From": -1,
+        "R_From": -1
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.12977360743373,
+            42.38166878291878
+          ],
+          [
+            -71.12983830204881,
+            42.38170729824866
+          ],
+          [
+            -71.12999398197445,
+            42.3818013442399
+          ],
+          [
+            -71.13006225129037,
+            42.38184256012276
+          ]
+        ]
+      },
+      "id": 766,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Concord",
+        "Potential_R_To": 147,
+        "Potential_L_To": 100,
+        "ToNode": 622,
+        "Label": "Concord Ave",
+        "Street_ID": 175,
+        "MajorRoad": 2,
+        "FromNode": 627,
+        "Direction": "0",
+        "L_To": 100,
+        "R_To": 147,
+        "GlobalID": "{8C16038B-CFA6-4F66-8E5F-307BBE108907}",
+        "Street_Type": "Ave",
+        "L_From": 100,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 100,
+        "ZIP_Left": "02138",
+        "Street": "Concord Ave",
+        "ROADWAYS": "F",
+        "ID": "Concord_Ave_8",
+        "Potential_R_From": 145,
+        "R_From": 145
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.13006225129037,
+            42.38184256012276
+          ],
+          [
+            -71.13013287389583,
+            42.38188644527381
+          ],
+          [
+            -71.13049094802055,
+            42.38210588630124
+          ],
+          [
+            -71.13099635699764,
+            42.3824042242306
+          ]
+        ]
+      },
+      "id": 767,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Concord",
+        "Potential_R_To": 197,
+        "Potential_L_To": 200,
+        "ToNode": 598,
+        "Label": "Concord Ave",
+        "Street_ID": 175,
+        "MajorRoad": 2,
+        "FromNode": 622,
+        "Direction": "0",
+        "L_To": 200,
+        "R_To": 197,
+        "GlobalID": "{E21C07AA-2AE9-4718-8FD0-0A9B0643EB33}",
+        "Street_Type": "Ave",
+        "L_From": 160,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 160,
+        "ZIP_Left": "02138",
+        "Street": "Concord Ave",
+        "ROADWAYS": "F",
+        "ID": "Concord_Ave_9",
+        "Potential_R_From": 159,
+        "R_From": 159
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.13099635699764,
+            42.3824042242306
+          ],
+          [
+            -71.13117609840297,
+            42.38249834576674
+          ],
+          [
+            -71.13184613592593,
+            42.382805220226366
+          ],
+          [
+            -71.13195639680515,
+            42.38285636564247
+          ]
+        ]
+      },
+      "id": 768,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Concord",
+        "Potential_R_To": 227,
+        "Potential_L_To": 224,
+        "ToNode": 580,
+        "Label": "Concord Ave",
+        "Street_ID": 175,
+        "MajorRoad": 2,
+        "FromNode": 598,
+        "Direction": "0",
+        "L_To": 224,
+        "R_To": 227,
+        "GlobalID": "{8C19DFB9-15CC-4BC7-8875-1AC088EC7A9F}",
+        "Street_Type": "Ave",
+        "L_From": 208,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 208,
+        "ZIP_Left": "02138",
+        "Street": "Concord Ave",
+        "ROADWAYS": "F",
+        "ID": "Concord_Ave_10",
+        "Potential_R_From": 199,
+        "R_From": 199
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.15719548396473,
+            42.39091768180917
+          ],
+          [
+            -71.15702908723014,
+            42.39101342001603
+          ],
+          [
+            -71.15696716769538,
+            42.391127278420186
+          ],
+          [
+            -71.1566090109579,
+            42.39178289020586
+          ]
+        ]
+      },
+      "id": 907,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Griswold",
+        "Potential_R_To": 32,
+        "Potential_L_To": 25,
+        "ToNode": 248,
+        "Label": "Griswold St",
+        "Street_ID": 348,
+        "FromNode": 2186,
+        "Direction": "0",
+        "L_To": 25,
+        "R_To": 32,
+        "GlobalID": "{AE4ACDFB-0AF4-4897-A7F3-CC8CE65E0BDE}",
+        "Street_Type": "St",
+        "L_From": 17,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 17,
+        "ZIP_Left": "02138",
+        "Street": "Griswold St",
+        "ROADWAYS": "F",
+        "ID": "Griswol_St_1",
+        "Potential_R_From": 1,
+        "R_From": 1
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.15400745702706,
+            42.39054639082194
+          ],
+          [
+            -71.15421165019286,
+            42.390572853652934
+          ],
+          [
+            -71.15580796457033,
+            42.39077721500081
+          ],
+          [
+            -71.1563594276733,
+            42.390823426735274
+          ],
+          [
+            -71.15696966540216,
+            42.39089206535402
+          ],
+          [
+            -71.15719548396473,
+            42.39091768180917
+          ]
+        ]
+      },
+      "id": 909,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Concord",
+        "Potential_R_To": 829,
+        "Potential_L_To": -1,
+        "ToNode": 2186,
+        "Label": "Concord Ave",
+        "Street_ID": 175,
+        "MajorRoad": 2,
+        "FromNode": 294,
+        "Direction": "0",
+        "L_To": -1,
+        "R_To": 829,
+        "GlobalID": "{A7D29914-EE39-4EB0-AB4F-6DDDDB66CB31}",
+        "Street_Type": "Ave",
+        "L_From": -1,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": -1,
+        "ZIP_Left": "02138",
+        "Street": "Concord Ave",
+        "ROADWAYS": "F",
+        "ID": "Concord_Ave_29",
+        "Potential_R_From": 765,
+        "R_From": 765
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.09310210979605,
+            42.36909848956121
+          ],
+          [
+            -71.09313511909949,
+            42.3692019483475
+          ],
+          [
+            -71.09328107985633,
+            42.369672031337565
+          ],
+          [
+            -71.09328343364402,
+            42.36968005237039
+          ]
+        ]
+      },
+      "id": 931,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Webster",
+        "Potential_R_To": 123,
+        "Potential_L_To": 126,
+        "ToNode": 1439,
+        "Label": "Webster Ave",
+        "Street_ID": 800,
+        "FromNode": 1487,
+        "Direction": "0",
+        "L_To": 126,
+        "R_To": 123,
+        "GlobalID": "{84BBAD81-9255-42E4-92AE-4A55C3E42B17}",
+        "Street_Type": "Ave",
+        "L_From": 110,
+        "Restriction": "F",
+        "ZIP_Right": "02141",
+        "Potential_L_From": 110,
+        "ZIP_Left": "02141",
+        "Street": "Webster Ave",
+        "ROADWAYS": "F",
+        "ID": "Webster_Ave_6",
+        "Potential_R_From": 109,
+        "R_From": 109
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.14811937798545,
+            42.389615257682074
+          ],
+          [
+            -71.1483810961511,
+            42.389673984830154
+          ],
+          [
+            -71.14899340853741,
+            42.389798815599114
+          ],
+          [
+            -71.15057952547428,
+            42.39010033072683
+          ],
+          [
+            -71.15066237425393,
+            42.39011306775054
+          ]
+        ]
+      },
+      "id": 971,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Concord",
+        "Potential_R_To": 679,
+        "Potential_L_To": 650,
+        "ToNode": 313,
+        "Label": "Concord Ave",
+        "Street_ID": 175,
+        "MajorRoad": 2,
+        "FromNode": 327,
+        "Direction": "0",
+        "L_To": 650,
+        "R_To": 679,
+        "GlobalID": "{80BE49B6-D6DE-4EE7-B443-5A0BD58F5375}",
+        "Street_Type": "Ave",
+        "L_From": 650,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 650,
+        "ZIP_Left": "02138",
+        "Street": "Concord Ave",
+        "ROADWAYS": "F",
+        "ID": "Concord_Ave_26",
+        "Potential_R_From": 641,
+        "R_From": 641
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.14599331142733,
+            42.38915613114025
+          ],
+          [
+            -71.14620452345272,
+            42.389210235040466
+          ],
+          [
+            -71.14802816717285,
+            42.38959538613224
+          ],
+          [
+            -71.14811937798545,
+            42.389615257682074
+          ]
+        ]
+      },
+      "id": 972,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Concord",
+        "Potential_R_To": 617,
+        "Potential_L_To": 640,
+        "ToNode": 327,
+        "Label": "Concord Ave",
+        "Street_ID": 175,
+        "MajorRoad": 2,
+        "FromNode": 342,
+        "Direction": "0",
+        "L_To": 640,
+        "R_To": 617,
+        "GlobalID": "{4FD5FAA3-68BA-48FD-A4D6-3FD8170DBE4E}",
+        "Street_Type": "Ave",
+        "L_From": 640,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 640,
+        "ZIP_Left": "02138",
+        "Street": "Concord Ave",
+        "ROADWAYS": "F",
+        "ID": "Concord_Ave_25",
+        "Potential_R_From": 617,
+        "R_From": 617
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.13195639680515,
+            42.38285636564247
+          ],
+          [
+            -71.13203310680643,
+            42.382891350871375
+          ],
+          [
+            -71.13281100397845,
+            42.383250235308346
+          ],
+          [
+            -71.13287213167708,
+            42.38327894121288
+          ]
+        ]
+      },
+      "id": 1010,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Concord",
+        "Potential_R_To": 245,
+        "Potential_L_To": 256,
+        "ToNode": 562,
+        "Label": "Concord Ave",
+        "Street_ID": 175,
+        "MajorRoad": 2,
+        "FromNode": 580,
+        "Direction": "0",
+        "L_To": 256,
+        "R_To": 245,
+        "GlobalID": "{FB215895-42ED-415B-B48A-D10F96FA71A8}",
+        "Street_Type": "Ave",
+        "L_From": 234,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 234,
+        "ZIP_Left": "02138",
+        "Street": "Concord Ave",
+        "ROADWAYS": "F",
+        "ID": "Concord_Ave_11",
+        "Potential_R_From": 231,
+        "R_From": 231
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.13408878261089,
+            42.38383256291511
+          ],
+          [
+            -71.13425063596064,
+            42.38390436833873
+          ],
+          [
+            -71.13565799602335,
+            42.38453074825297
+          ],
+          [
+            -71.13579223345577,
+            42.384590884083195
+          ]
+        ]
+      },
+      "id": 1099,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Concord",
+        "Potential_R_To": 341,
+        "Potential_L_To": 340,
+        "ToNode": 491,
+        "Label": "Concord Ave",
+        "Street_ID": 175,
+        "MajorRoad": 2,
+        "FromNode": 531,
+        "Direction": "0",
+        "L_To": 340,
+        "R_To": 341,
+        "GlobalID": "{88A8A42A-0C74-4501-B20A-DCA1CAE02461}",
+        "Street_Type": "Ave",
+        "L_From": 298,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 298,
+        "ZIP_Left": "02138",
+        "Street": "Concord Ave",
+        "ROADWAYS": "F",
+        "ID": "Concord_Ave_14",
+        "Potential_R_From": 299,
+        "R_From": 299
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.13579223345577,
+            42.384590884083195
+          ],
+          [
+            -71.13596247240034,
+            42.38466625346
+          ],
+          [
+            -71.13637967639002,
+            42.384850217600516
+          ],
+          [
+            -71.13653189484832,
+            42.384918422049104
+          ]
+        ]
+      },
+      "id": 1100,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Concord",
+        "Potential_R_To": 355,
+        "Potential_L_To": 356,
+        "ToNode": 478,
+        "Label": "Concord Ave",
+        "Street_ID": 175,
+        "MajorRoad": 2,
+        "FromNode": 491,
+        "Direction": "0",
+        "L_To": 356,
+        "R_To": 355,
+        "GlobalID": "{45D70272-C7EC-4200-B59C-F9A91A82FFD4}",
+        "Street_Type": "Ave",
+        "L_From": 342,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 342,
+        "ZIP_Left": "02138",
+        "Street": "Concord Ave",
+        "ROADWAYS": "F",
+        "ID": "Concord_Ave_15",
+        "Potential_R_From": 351,
+        "R_From": 351
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.13653189484832,
+            42.384918422049104
+          ],
+          [
+            -71.13667817490321,
+            42.38498304026009
+          ],
+          [
+            -71.13712531949051,
+            42.38518136533923
+          ],
+          [
+            -71.13727998247381,
+            42.38524957649758
+          ]
+        ]
+      },
+      "id": 1101,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Concord",
+        "Potential_R_To": 369,
+        "Potential_L_To": 372,
+        "ToNode": 467,
+        "Label": "Concord Ave",
+        "Street_ID": 175,
+        "MajorRoad": 2,
+        "FromNode": 478,
+        "Direction": "0",
+        "L_To": 372,
+        "R_To": 369,
+        "GlobalID": "{28C8E0B4-6547-4F4D-BE7D-D454DA89296A}",
+        "Street_Type": "Ave",
+        "L_From": 360,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 360,
+        "ZIP_Left": "02138",
+        "Street": "Concord Ave",
+        "ROADWAYS": "F",
+        "ID": "Concord_Ave_16",
+        "Potential_R_From": 361,
+        "R_From": 361
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.13727998247381,
+            42.38524957649758
+          ],
+          [
+            -71.1374525836371,
+            42.38532673473463
+          ],
+          [
+            -71.13793813604934,
+            42.38554120296718
+          ],
+          [
+            -71.13808197604448,
+            42.385605811696564
+          ]
+        ]
+      },
+      "id": 1102,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Concord",
+        "Potential_R_To": 401,
+        "Potential_L_To": 374,
+        "ToNode": 452,
+        "Label": "Concord Ave",
+        "Street_ID": 175,
+        "MajorRoad": 2,
+        "FromNode": 467,
+        "Direction": "0",
+        "L_To": 374,
+        "R_To": 401,
+        "GlobalID": "{C2E51BEF-6474-47DF-9850-B33345FE4DEF}",
+        "Street_Type": "Ave",
+        "L_From": 372,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 372,
+        "ZIP_Left": "02138",
+        "Street": "Concord Ave",
+        "ROADWAYS": "F",
+        "ID": "Concord_Ave_17",
+        "Potential_R_From": 385,
+        "R_From": 385
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.13808197604448,
+            42.385605811696564
+          ],
+          [
+            -71.13823305573992,
+            42.38567313218905
+          ],
+          [
+            -71.13869099805083,
+            42.385875024911535
+          ],
+          [
+            -71.13887202657016,
+            42.38595489664191
+          ]
+        ]
+      },
+      "id": 1103,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Concord",
+        "Potential_R_To": 425,
+        "Potential_L_To": -1,
+        "ToNode": 437,
+        "Label": "Concord Ave",
+        "Street_ID": 175,
+        "MajorRoad": 2,
+        "FromNode": 452,
+        "Direction": "0",
+        "L_To": -1,
+        "R_To": 425,
+        "GlobalID": "{C9872034-C971-4AFD-9E27-6CFC11466D05}",
+        "Street_Type": "Ave",
+        "L_From": -1,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": -1,
+        "ZIP_Left": "02138",
+        "Street": "Concord Ave",
+        "ROADWAYS": "F",
+        "ID": "Concord_Ave_18",
+        "Potential_R_From": 407,
+        "R_From": 407
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.12881667153752,
+            42.381109724247516
+          ],
+          [
+            -71.12894963258154,
+            42.38118320019738
+          ],
+          [
+            -71.12929701600413,
+            42.38137500521637
+          ],
+          [
+            -71.1294143696562,
+            42.381446646687564
+          ],
+          [
+            -71.12977360743373,
+            42.38166878291878
+          ]
+        ]
+      },
+      "id": 1179,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Concord",
+        "Potential_R_To": -1,
+        "Potential_L_To": 96,
+        "ToNode": 627,
+        "Label": "Concord Ave",
+        "Street_ID": 175,
+        "MajorRoad": 2,
+        "FromNode": 653,
+        "Direction": "0",
+        "L_To": 96,
+        "R_To": -1,
+        "GlobalID": "{1E0DD80E-BA7F-4B6E-A3BD-F869DE5369B3}",
+        "Street_Type": "Ave",
+        "L_From": 96,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 96,
+        "ZIP_Left": "02138",
+        "Street": "Concord Ave",
+        "ROADWAYS": "F",
+        "ID": "Concord_Ave_7",
+        "Potential_R_From": -1,
+        "R_From": -1
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.09712977845598,
+            42.37325048839857
+          ],
+          [
+            -71.09716580044893,
+            42.3732541818487
+          ],
+          [
+            -71.0972354276405,
+            42.37326334390252
+          ],
+          [
+            -71.09797864051545,
+            42.37335858371414
+          ],
+          [
+            -71.09813952754865,
+            42.37337964412134
+          ]
+        ]
+      },
+      "id": 1191,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Cambridge",
+        "Potential_R_To": 1221,
+        "Potential_L_To": 1236,
+        "ToNode": 1107,
+        "EditDate": "2012",
+        "Label": "Cambridge St",
+        "Street_ID": 122,
+        "MajorRoad": 2,
+        "FromNode": 1117,
+        "Direction": "0",
+        "L_To": 1236,
+        "R_To": 1221,
+        "GlobalID": "{151FF073-648D-49A1-B0C7-5712C93790EA}",
+        "Street_Type": "St",
+        "L_From": 1190,
+        "Restriction": "F",
+        "ZIP_Right": "02139",
+        "Potential_L_From": 1190,
+        "ZIP_Left": "02139",
+        "Street": "Cambridge St",
+        "ROADWAYS": "F",
+        "ID": "Cambrid_St_26",
+        "Potential_R_From": 1193,
+        "R_From": 1193
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.1566090109579,
+            42.39178289020586
+          ],
+          [
+            -71.15662440827187,
+            42.39183103945453
+          ],
+          [
+            -71.15701775819556,
+            42.39310188703781
+          ],
+          [
+            -71.15703319161294,
+            42.393136672774816
+          ],
+          [
+            -71.15712734236489,
+            42.393284857915255
+          ],
+          [
+            -71.15717386345787,
+            42.39335538153148
+          ]
+        ]
+      },
+      "id": 1229,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Sunset",
+        "Potential_R_To": 44,
+        "Potential_L_To": 45,
+        "ToNode": 208,
+        "Label": "Sunset Rd",
+        "Street_ID": 734,
+        "FromNode": 248,
+        "Direction": "0",
+        "L_To": 45,
+        "R_To": 44,
+        "GlobalID": "{E8C208F8-5B0F-4DD4-A174-935546B459F3}",
+        "Street_Type": "Rd",
+        "L_From": 5,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 5,
+        "ZIP_Left": "02138",
+        "Street": "Sunset Rd",
+        "ROADWAYS": "F",
+        "ID": "Sunset_Rd_1",
+        "Potential_R_From": 8,
+        "R_From": 8
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.13887202657016,
+            42.38595489664191
+          ],
+          [
+            -71.13903149502623,
+            42.38602490414487
+          ],
+          [
+            -71.13963210110629,
+            42.386291396742834
+          ],
+          [
+            -71.13967526454157,
+            42.38631024642667
+          ]
+        ]
+      },
+      "id": 1248,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Concord",
+        "Potential_R_To": 445,
+        "Potential_L_To": 446,
+        "ToNode": 424,
+        "Label": "Concord Ave",
+        "Street_ID": 175,
+        "MajorRoad": 2,
+        "FromNode": 437,
+        "Direction": "0",
+        "L_To": -1,
+        "R_To": 445,
+        "GlobalID": "{7AE301AC-E584-45F5-B26F-6D924E5F5D7A}",
+        "Street_Type": "Ave",
+        "L_From": -1,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 446,
+        "ZIP_Left": "02138",
+        "Street": "Concord Ave",
+        "ROADWAYS": "F",
+        "ID": "Concord_Ave_19",
+        "Potential_R_From": 443,
+        "R_From": 443
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.11982874877876,
+            42.380859395182505
+          ],
+          [
+            -71.11956449428243,
+            42.38083892900812
+          ],
+          [
+            -71.11939506212111,
+            42.380831234030666
+          ],
+          [
+            -71.11835582421016,
+            42.38078413314412
+          ],
+          [
+            -71.1177539014892,
+            42.380752718402505
+          ],
+          [
+            -71.11768180342925,
+            42.380752478832015
+          ],
+          [
+            -71.11763612598,
+            42.38075323257221
+          ],
+          [
+            -71.1176000661644,
+            42.38075489636423
+          ],
+          [
+            -71.1175687909363,
+            42.38076102144029
+          ],
+          [
+            -71.11752904475588,
+            42.380772469279755
+          ],
+          [
+            -71.1174965527842,
+            42.380783941224266
+          ],
+          [
+            -71.11746282399355,
+            42.38079184175837
+          ],
+          [
+            -71.11742557978828,
+            42.38079350155765
+          ],
+          [
+            -71.11734986536351,
+            42.38079146610905
+          ],
+          [
+            -71.11703392252839,
+            42.38077438947798
+          ],
+          [
+            -71.11641042905804,
+            42.38073578876105
+          ]
+        ]
+      },
+      "id": 1264,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Mellen",
+        "Potential_R_To": 38,
+        "Potential_L_To": 37,
+        "ToNode": 666,
+        "Label": "Mellen St",
+        "Street_ID": 529,
+        "FromNode": 2197,
+        "Direction": "0",
+        "L_To": 37,
+        "R_To": 38,
+        "GlobalID": "{C64CDE49-58A3-4842-9897-D26B6B9F3FF7}",
+        "Street_Type": "St",
+        "L_From": 3,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 3,
+        "ZIP_Left": "02138",
+        "Street": "Mellen St",
+        "ROADWAYS": "F",
+        "ID": "Mellen_St_1",
+        "Potential_R_From": 8,
+        "R_From": 8
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.09915407463797,
+            42.37351149687574
+          ],
+          [
+            -71.0992429292037,
+            42.373523386463475
+          ],
+          [
+            -71.09956589501769,
+            42.37356460211212
+          ],
+          [
+            -71.09966196611784,
+            42.37357651649618
+          ]
+        ]
+      },
+      "id": 1282,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Cambridge",
+        "Potential_R_To": 1311,
+        "Potential_L_To": 1310,
+        "ToNode": 1097,
+        "EditDate": "2012",
+        "Label": "Cambridge St",
+        "Street_ID": 122,
+        "MajorRoad": 2,
+        "FromNode": 1100,
+        "Direction": "0",
+        "L_To": 1310,
+        "R_To": 1311,
+        "GlobalID": "{85CE5391-B9F9-4366-9FE4-2AEA4511EBB8}",
+        "Street_Type": "St",
+        "L_From": 1300,
+        "Restriction": "F",
+        "ZIP_Right": "02139",
+        "Potential_L_From": 1300,
+        "ZIP_Left": "02139",
+        "Street": "Cambridge St",
+        "ROADWAYS": "F",
+        "ID": "Cambrid_St_28",
+        "Potential_R_From": 1297,
+        "R_From": 1297
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.09813952754865,
+            42.37337964412134
+          ],
+          [
+            -71.09835325236041,
+            42.373408023399186
+          ],
+          [
+            -71.09903522444266,
+            42.37349681347512
+          ],
+          [
+            -71.09915407463797,
+            42.37351149687574
+          ]
+        ]
+      },
+      "id": 1285,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Cambridge",
+        "Potential_R_To": 1295,
+        "Potential_L_To": 1280,
+        "ToNode": 1100,
+        "Label": "Cambridge St",
+        "Street_ID": 122,
+        "MajorRoad": 2,
+        "FromNode": 1107,
+        "Direction": "0",
+        "L_To": 1280,
+        "R_To": 1295,
+        "GlobalID": "{F3933D0E-DDC7-4597-9102-ED033695A408}",
+        "Street_Type": "St",
+        "L_From": 1248,
+        "Restriction": "F",
+        "ZIP_Right": "02139",
+        "Potential_L_From": 1248,
+        "ZIP_Left": "02139",
+        "Street": "Cambridge St",
+        "ROADWAYS": "F",
+        "ID": "Cambrid_St_27",
+        "Potential_R_From": 1245,
+        "R_From": 1245
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.09328771214186,
+            42.372749592998304
+          ],
+          [
+            -71.09349781181947,
+            42.372777062953844
+          ],
+          [
+            -71.09393845349227,
+            42.372835641174
+          ],
+          [
+            -71.09436708024997,
+            42.3728923916857
+          ],
+          [
+            -71.09451235950644,
+            42.37291161848865
+          ]
+        ]
+      },
+      "id": 1356,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Cambridge",
+        "Potential_R_To": 1035,
+        "Potential_L_To": 1036,
+        "ToNode": 1155,
+        "Label": "Cambridge St",
+        "Street_ID": 122,
+        "MajorRoad": 2,
+        "FromNode": 1168,
+        "Direction": "0",
+        "L_To": 1036,
+        "R_To": 1035,
+        "GlobalID": "{B4371E43-D71A-43D4-BB0B-8DDFD3CCA88B}",
+        "Street_Type": "St",
+        "L_From": 1000,
+        "Restriction": "F",
+        "ZIP_Right": "02141",
+        "Potential_L_From": 1000,
+        "ZIP_Left": "02141",
+        "Street": "Cambridge St",
+        "ROADWAYS": "F",
+        "ID": "Cambrid_St_21",
+        "Potential_R_From": 1001,
+        "R_From": 1001
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.09254045305632,
+            42.367316252103144
+          ],
+          [
+            -71.09263113669773,
+            42.367599927041724
+          ],
+          [
+            -71.09266294612495,
+            42.36769984189112
+          ]
+        ]
+      },
+      "id": 1363,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Webster",
+        "Potential_R_To": 35,
+        "Potential_L_To": 36,
+        "ToNode": 1569,
+        "Label": "Webster Ave",
+        "Street_ID": 800,
+        "FromNode": 1595,
+        "Direction": "0",
+        "L_To": 36,
+        "R_To": 35,
+        "GlobalID": "{0559DECA-497B-4208-B10F-C873B61DCD81}",
+        "Street_Type": "Ave",
+        "L_From": 26,
+        "Restriction": "F",
+        "ZIP_Right": "02141",
+        "Potential_L_From": 26,
+        "ZIP_Left": "02141",
+        "Street": "Webster Ave",
+        "ROADWAYS": "F",
+        "ID": "Webster_Ave_2",
+        "Potential_R_From": 33,
+        "R_From": 33
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0923685192652,
+            42.366778379367545
+          ],
+          [
+            -71.09254045305632,
+            42.367316252103144
+          ]
+        ]
+      },
+      "id": 1364,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Webster",
+        "Potential_R_To": 13,
+        "Potential_L_To": -1,
+        "ToNode": 1595,
+        "Label": "Webster Ave",
+        "Street_ID": 800,
+        "FromNode": 1634,
+        "Direction": "0",
+        "L_To": -1,
+        "R_To": 13,
+        "GlobalID": "{77AB7802-B8C2-4408-8687-E171AEB01B0A}",
+        "Street_Type": "Ave",
+        "L_From": -1,
+        "Restriction": "F",
+        "ZIP_Right": "02141",
+        "Potential_L_From": -1,
+        "ZIP_Left": "02141",
+        "Street": "Webster Ave",
+        "ROADWAYS": "F",
+        "ID": "Webster_Ave_1",
+        "Potential_R_From": 3,
+        "R_From": 3
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.12207463346394,
+            42.37969691628112
+          ],
+          [
+            -71.12213597649509,
+            42.3796881995564
+          ],
+          [
+            -71.12218653369537,
+            42.37967588008944
+          ],
+          [
+            -71.12335799909837,
+            42.37931264727497
+          ],
+          [
+            -71.12402903423816,
+            42.37903505700638
+          ],
+          [
+            -71.12417602924423,
+            42.37896871923666
+          ]
+        ]
+      },
+      "id": 1390,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Chauncy",
+        "Potential_R_To": 29,
+        "Potential_L_To": 30,
+        "ToNode": 726,
+        "Label": "Chauncy St",
+        "Street_ID": 150,
+        "MajorRoad": 2,
+        "FromNode": 702,
+        "Direction": "-1",
+        "L_To": 30,
+        "R_To": 29,
+        "GlobalID": "{B4662EB6-8BBF-4089-882B-41706F668C72}",
+        "Street_Type": "St",
+        "L_From": 14,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 14,
+        "ZIP_Left": "02138",
+        "Street": "Chauncy St",
+        "ROADWAYS": "F",
+        "ID": "Chauncy_St_2",
+        "Potential_R_From": 19,
+        "R_From": 19
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.13287213167708,
+            42.38327894121288
+          ],
+          [
+            -71.13292488331913,
+            42.383303174976355
+          ],
+          [
+            -71.13295364385634,
+            42.38331575222749
+          ],
+          [
+            -71.13302795948054,
+            42.383348945505176
+          ]
+        ]
+      },
+      "id": 1416,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Concord",
+        "Potential_R_To": 263,
+        "Potential_L_To": 260,
+        "ToNode": 558,
+        "Label": "Concord Ave",
+        "Street_ID": 175,
+        "MajorRoad": 2,
+        "FromNode": 562,
+        "Direction": "0",
+        "L_To": 260,
+        "R_To": 263,
+        "GlobalID": "{EF0FE9FF-E6BF-4A8F-A980-29EF212254A2}",
+        "Street_Type": "Ave",
+        "L_From": 260,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 260,
+        "ZIP_Left": "02138",
+        "Street": "Concord Ave",
+        "ROADWAYS": "F",
+        "ID": "Concord_Ave_12",
+        "Potential_R_From": 263,
+        "R_From": 263
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.14409838800583,
+            42.388628145891616
+          ],
+          [
+            -71.14437548869346,
+            42.38872789857592
+          ],
+          [
+            -71.1458984993979,
+            42.38913177400008
+          ],
+          [
+            -71.14599331142733,
+            42.38915613114025
+          ]
+        ]
+      },
+      "id": 1418,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Concord",
+        "Potential_R_To": 615,
+        "Potential_L_To": -1,
+        "ToNode": 342,
+        "Label": "Concord Ave",
+        "Street_ID": 175,
+        "MajorRoad": 2,
+        "FromNode": 354,
+        "Direction": "0",
+        "L_To": -1,
+        "R_To": 615,
+        "GlobalID": "{3C672F2F-6150-415B-B307-267C76739BDB}",
+        "Street_Type": "Ave",
+        "L_From": -1,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": -1,
+        "ZIP_Left": "02138",
+        "Street": "Concord Ave",
+        "ROADWAYS": "F",
+        "ID": "Concord_Ave_24",
+        "Potential_R_From": 601,
+        "R_From": 601
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.11363631252546,
+            42.38119428722684
+          ],
+          [
+            -71.11352901703184,
+            42.38124825940439
+          ],
+          [
+            -71.1125839140892,
+            42.38171821300539
+          ],
+          [
+            -71.11244169021988,
+            42.38178811934476
+          ]
+        ]
+      },
+      "id": 1510,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Hammond",
+        "Potential_R_To": 104,
+        "Potential_L_To": 111,
+        "ToNode": 621,
+        "Label": "Hammond St",
+        "Street_ID": 356,
+        "FromNode": 647,
+        "Direction": "1",
+        "L_To": 111,
+        "R_To": 104,
+        "GlobalID": "{5D92ACA0-DEE5-4F38-987A-E5DBCA4C1FA7}",
+        "Street_Type": "St",
+        "L_From": 83,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 83,
+        "ZIP_Left": "02138",
+        "Street": "Hammond St",
+        "ROADWAYS": "F",
+        "ID": "Hammond_St_3",
+        "Potential_R_From": 78,
+        "R_From": 78
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.11451136642638,
+            42.38077397745277
+          ],
+          [
+            -71.1144186261169,
+            42.380808434019784
+          ],
+          [
+            -71.1137254865325,
+            42.381150022991505
+          ],
+          [
+            -71.11363631252546,
+            42.38119428722684
+          ]
+        ]
+      },
+      "id": 1511,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Hammond",
+        "Potential_R_To": 76,
+        "Potential_L_To": 71,
+        "ToNode": 647,
+        "Label": "Hammond St",
+        "Street_ID": 356,
+        "FromNode": 662,
+        "Direction": "1",
+        "L_To": 71,
+        "R_To": 76,
+        "GlobalID": "{70D40DD3-2878-4547-82FF-393F7C1323C8}",
+        "Street_Type": "St",
+        "L_From": 55,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 55,
+        "ZIP_Left": "02138",
+        "Street": "Hammond St",
+        "ROADWAYS": "F",
+        "ID": "Hammond_St_1",
+        "Potential_R_From": 54,
+        "R_From": 54
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0933904138093,
+            42.37079150795547
+          ],
+          [
+            -71.09348637053937,
+            42.370820385521895
+          ],
+          [
+            -71.09358712114259,
+            42.37085191426026
+          ],
+          [
+            -71.09365667077572,
+            42.37087265823165
+          ]
+        ]
+      },
+      "id": 1615,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Lincoln",
+        "Potential_R_To": 15,
+        "Potential_L_To": -1,
+        "ToNode": 1335,
+        "Label": "Lincoln St",
+        "Street_ID": 478,
+        "FromNode": 1342,
+        "Direction": "-1",
+        "L_To": -1,
+        "R_To": 15,
+        "GlobalID": "{C2BAE1DC-8BE3-41ED-B396-A2C76F475AF9}",
+        "Street_Type": "St",
+        "L_From": -1,
+        "Restriction": "F",
+        "ZIP_Right": "02141",
+        "Potential_L_From": -1,
+        "ZIP_Left": "02141",
+        "Street": "Lincoln St",
+        "ROADWAYS": "F",
+        "ID": "Lincoln_St_2",
+        "Potential_R_From": 13,
+        "R_From": 13
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.15717386345787,
+            42.39335538153148
+          ],
+          [
+            -71.15707872664515,
+            42.39338895968979
+          ],
+          [
+            -71.15636329401744,
+            42.39364701668203
+          ],
+          [
+            -71.15618024217838,
+            42.393713287620486
+          ],
+          [
+            -71.1561730040777,
+            42.393716833264705
+          ],
+          [
+            -71.15616817221034,
+            42.39372038609834
+          ],
+          [
+            -71.1561548692808,
+            42.39373637162807
+          ],
+          [
+            -71.15615120576156,
+            42.39374972422754
+          ],
+          [
+            -71.15615582616174,
+            42.39377824876236
+          ],
+          [
+            -71.15619347810315,
+            42.39393427844942
+          ],
+          [
+            -71.15621940096287,
+            42.3940279281588
+          ]
+        ]
+      },
+      "id": 1717,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "South Normandy",
+        "Potential_R_To": 55,
+        "Potential_L_To": 46,
+        "ToNode": 179,
+        "Label": "South Normandy Ave",
+        "Street_ID": 709,
+        "FromNode": 208,
+        "Direction": "0",
+        "L_To": 46,
+        "R_To": 55,
+        "GlobalID": "{2F867259-6879-4043-8AE4-D428C1FA95D0}",
+        "Street_Type": "Ave",
+        "L_From": 28,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 28,
+        "ZIP_Left": "02138",
+        "Street": "South Normandy Ave",
+        "ROADWAYS": "F",
+        "ID": "South-N_Ave_2",
+        "Potential_R_From": 23,
+        "R_From": 23
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.11641042905804,
+            42.38073578876105
+          ],
+          [
+            -71.11639771409872,
+            42.38084888430697
+          ]
+        ]
+      },
+      "id": 1736,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Oxford",
+        "Potential_R_To": -1,
+        "Potential_L_To": -1,
+        "ToNode": 658,
+        "Label": "Oxford St",
+        "Street_ID": 594,
+        "MajorRoad": 2,
+        "FromNode": 666,
+        "Direction": "0",
+        "L_To": -1,
+        "R_To": -1,
+        "GlobalID": "{F94E5E55-8AA4-4C31-9CD0-788E84BB5945}",
+        "Street_Type": "St",
+        "L_From": -1,
+        "Restriction": "T",
+        "ZIP_Right": "02138",
+        "Potential_L_From": -1,
+        "ZIP_Left": "02138",
+        "Street": "Oxford St",
+        "ROADWAYS": "F",
+        "ID": "Oxford_St_3",
+        "Potential_R_From": -1,
+        "R_From": -1
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.09365667077572,
+            42.37087265823165
+          ],
+          [
+            -71.09368256050574,
+            42.37095559340001
+          ],
+          [
+            -71.09373204019757,
+            42.37111080856932
+          ],
+          [
+            -71.09376854103269,
+            42.3712241032494
+          ],
+          [
+            -71.0938097753824,
+            42.371355223693875
+          ]
+        ]
+      },
+      "id": 1883,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Webster",
+        "Potential_R_To": 237,
+        "Potential_L_To": -1,
+        "ToNode": 1295,
+        "Label": "Webster Ave",
+        "Street_ID": 800,
+        "FromNode": 1335,
+        "Direction": "-1",
+        "L_To": -1,
+        "R_To": 237,
+        "GlobalID": "{75063D2C-16B3-4466-A893-6E32AED79119}",
+        "Street_Type": "Ave",
+        "L_From": -1,
+        "Restriction": "F",
+        "ZIP_Right": "02141",
+        "Potential_L_From": -1,
+        "ZIP_Left": "02141",
+        "Street": "Webster Ave",
+        "ROADWAYS": "F",
+        "ID": "Webster_Ave_9",
+        "Potential_R_From": 187,
+        "R_From": 187
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.09442630065597,
+            42.373214261149435
+          ],
+          [
+            -71.09443408411673,
+            42.37331052335134
+          ],
+          [
+            -71.09455542203219,
+            42.37369317346271
+          ],
+          [
+            -71.0946743815355,
+            42.374066046117086
+          ],
+          [
+            -71.09474744436253,
+            42.374289945709336
+          ]
+        ]
+      },
+      "id": 1884,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Webster",
+        "Potential_R_To": 333,
+        "Potential_L_To": 320,
+        "ToNode": 1056,
+        "Label": "Webster Ave",
+        "Street_ID": 800,
+        "FromNode": 1122,
+        "Direction": "0",
+        "L_To": 320,
+        "R_To": 333,
+        "GlobalID": "{ED57AC71-54EC-48EA-AF2C-98994C136E02}",
+        "Street_Type": "Ave",
+        "L_From": 306,
+        "Restriction": "F",
+        "ZIP_Right": "02141",
+        "Potential_L_From": 306,
+        "ZIP_Left": "02141",
+        "Street": "Webster Ave",
+        "ROADWAYS": "F",
+        "ID": "Webster_Ave_10",
+        "Potential_R_From": 305,
+        "R_From": 305
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.13967526454157,
+            42.38631024642667
+          ],
+          [
+            -71.13988627535345,
+            42.38640357401697
+          ],
+          [
+            -71.14009611090765,
+            42.386488884880485
+          ],
+          [
+            -71.14028436599102,
+            42.3865678714308
+          ],
+          [
+            -71.14040547900753,
+            42.386613691670995
+          ],
+          [
+            -71.1404630533929,
+            42.38663703147408
+          ],
+          [
+            -71.14051466522929,
+            42.38664789458047
+          ],
+          [
+            -71.14057471147211,
+            42.38665966211155
+          ],
+          [
+            -71.1406335716486,
+            42.38666519688755
+          ],
+          [
+            -71.14067199964832,
+            42.386670667825065
+          ],
+          [
+            -71.14072364195079,
+            42.38667618001308
+          ],
+          [
+            -71.14077527927377,
+            42.38668257026195
+          ],
+          [
+            -71.14085819913662,
+            42.38668818003772
+          ],
+          [
+            -71.1409326796294,
+            42.38669376341675
+          ],
+          [
+            -71.14100234836071,
+            42.386699304293586
+          ]
+        ]
+      },
+      "id": 1971,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Concord",
+        "Potential_R_To": 495,
+        "Potential_L_To": 484,
+        "ToNode": 2172,
+        "Label": "Concord Ave",
+        "Street_ID": 175,
+        "MajorRoad": 2,
+        "FromNode": 424,
+        "Direction": "0",
+        "L_To": 480,
+        "R_To": 495,
+        "GlobalID": "{AA25052F-D09F-4EB0-B8F1-AC143104D975}",
+        "Street_Type": "Ave",
+        "L_From": 450,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 450,
+        "ZIP_Left": "02138",
+        "Street": "Concord Ave",
+        "ROADWAYS": "N",
+        "ID": "Concord_Ave_20",
+        "Potential_R_From": 459,
+        "R_From": 459
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.14100234836071,
+            42.386699304293586
+          ],
+          [
+            -71.14104651984617,
+            42.38674935658023
+          ],
+          [
+            -71.14115786486143,
+            42.386827223624195
+          ],
+          [
+            -71.14129204838746,
+            42.386905161762265
+          ],
+          [
+            -71.14156644165301,
+            42.38704944895711
+          ],
+          [
+            -71.14186348927946,
+            42.3872330460753
+          ],
+          [
+            -71.14213892010555,
+            42.38741031872382
+          ],
+          [
+            -71.14260002129419,
+            42.38769954899618
+          ],
+          [
+            -71.14270303296941,
+            42.38776578125596
+          ],
+          [
+            -71.14279284849171,
+            42.38782220360014
+          ],
+          [
+            -71.14284430577163,
+            42.38786067042065
+          ],
+          [
+            -71.14290420266065,
+            42.38789916341075
+          ],
+          [
+            -71.14297118489212,
+            42.38795463664687
+          ],
+          [
+            -71.14298555558952,
+            42.38796626117179
+          ]
+        ]
+      },
+      "id": 2000,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Concord",
+        "Potential_R_To": 545,
+        "Potential_L_To": 502,
+        "ToNode": 373,
+        "Label": "Concord Ave",
+        "Street_ID": 175,
+        "MajorRoad": 1,
+        "FromNode": 2172,
+        "Direction": "0",
+        "L_To": -1,
+        "R_To": 545,
+        "GlobalID": "{C88AAABE-8518-4CF8-B8AA-4E8A23A768E4}",
+        "Street_Type": "Ave",
+        "L_From": -1,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 502,
+        "ZIP_Left": "02138",
+        "Street": "Concord Ave",
+        "ROADWAYS": "T",
+        "ID": "Concord_Ave_21",
+        "Potential_R_From": 505,
+        "R_From": 505
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.14298555558952,
+            42.38796626117179
+          ],
+          [
+            -71.14302263743097,
+            42.38799398147032
+          ],
+          [
+            -71.14307528630191,
+            42.38803780279925
+          ],
+          [
+            -71.14313386131776,
+            42.388094127957174
+          ],
+          [
+            -71.14318648015413,
+            42.38814330005762
+          ],
+          [
+            -71.14324499514136,
+            42.38821029936407
+          ],
+          [
+            -71.14329751182008,
+            42.388271051027985
+          ],
+          [
+            -71.14335602704317,
+            42.388338050276026
+          ],
+          [
+            -71.14340855077418,
+            42.38840415282534
+          ],
+          [
+            -71.14344557444775,
+            42.3884488310926
+          ]
+        ]
+      },
+      "id": 2001,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Concord",
+        "Potential_R_To": -1,
+        "Potential_L_To": -1,
+        "ToNode": 2184,
+        "Label": "Concord Ave",
+        "Street_ID": 175,
+        "MajorRoad": 1,
+        "FromNode": 373,
+        "Direction": "0",
+        "L_To": -1,
+        "R_To": -1,
+        "GlobalID": "{256B6FDF-A4CA-4527-8BC3-8627918EE90D}",
+        "Street_Type": "Ave",
+        "L_From": -1,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": -1,
+        "ZIP_Left": "02138",
+        "Street": "Concord Ave",
+        "ROADWAYS": "T",
+        "ID": "Concord_Ave_22",
+        "Potential_R_From": -1,
+        "R_From": -1
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.09296909271718,
+            42.36867032673088
+          ],
+          [
+            -71.0929926581048,
+            42.36874614671145
+          ],
+          [
+            -71.09307035310067,
+            42.36899591329942
+          ],
+          [
+            -71.09310210979605,
+            42.36909848956121
+          ]
+        ]
+      },
+      "id": 2327,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Webster",
+        "Potential_R_To": 89,
+        "Potential_L_To": 92,
+        "ToNode": 1487,
+        "Label": "Webster Ave",
+        "Street_ID": 800,
+        "FromNode": 1513,
+        "Direction": "0",
+        "L_To": 92,
+        "R_To": 89,
+        "GlobalID": "{A4616359-69C0-4941-BA7A-B2ED74CCDCBC}",
+        "Street_Type": "Ave",
+        "L_From": 86,
+        "Restriction": "F",
+        "ZIP_Right": "02141",
+        "Potential_L_From": 86,
+        "ZIP_Left": "02141",
+        "Street": "Webster Ave",
+        "ROADWAYS": "F",
+        "ID": "Webster_Ave_5",
+        "Potential_R_From": 89,
+        "R_From": 89
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.11096698920288,
+            42.38199342011489
+          ],
+          [
+            -71.1107619523484,
+            42.38182257206443
+          ],
+          [
+            -71.1099201407288,
+            42.38114010509383
+          ],
+          [
+            -71.1093632220397,
+            42.38069301506989
+          ],
+          [
+            -71.10901325033221,
+            42.38040879515902
+          ],
+          [
+            -71.10871644391432,
+            42.380177940208775
+          ]
+        ]
+      },
+      "id": 2454,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Beacon",
+        "Potential_R_To": -1,
+        "Potential_L_To": -1,
+        "ToNode": 612,
+        "Label": "Beacon St",
+        "Street_ID": 66,
+        "FromNode": 684,
+        "Direction": "0",
+        "L_To": -1,
+        "R_To": -1,
+        "GlobalID": "{CB484637-75AF-4896-A1BD-179A098C1C80}",
+        "Restriction": "F",
+        "Street_Type": "St",
+        "L_From": -1,
+        "Potential_L_From": -1,
+        "Street": "Beacon St",
+        "ROADWAYS": "F",
+        "ID": "Beacon_St_3",
+        "Potential_R_From": -1,
+        "R_From": -1
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.10871644391432,
+            42.380177940208775
+          ],
+          [
+            -71.10793672279192,
+            42.379548738088296
+          ],
+          [
+            -71.10706213178263,
+            42.37884183917786
+          ],
+          [
+            -71.10637868620228,
+            42.378285652305294
+          ]
+        ]
+      },
+      "id": 2455,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Beacon",
+        "Potential_R_To": -1,
+        "Potential_L_To": -1,
+        "ToNode": 684,
+        "Label": "Beacon St",
+        "Street_ID": 66,
+        "FromNode": 760,
+        "Direction": "0",
+        "L_To": -1,
+        "R_To": -1,
+        "GlobalID": "{CE45782C-C918-4F73-812C-812CC1E5F2B2}",
+        "Restriction": "F",
+        "Street_Type": "St",
+        "L_From": -1,
+        "Potential_L_From": -1,
+        "Street": "Beacon St",
+        "ROADWAYS": "F",
+        "ID": "Beacon_St_2",
+        "Potential_R_From": -1,
+        "R_From": -1
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.10637868620228,
+            42.378285652305294
+          ],
+          [
+            -71.10618041011784,
+            42.378123641183294
+          ],
+          [
+            -71.10519947089769,
+            42.37730957977931
+          ],
+          [
+            -71.1049687304589,
+            42.377119971494366
+          ],
+          [
+            -71.10437878935421,
+            42.37663612363743
+          ],
+          [
+            -71.10388651454254,
+            42.376233910750884
+          ],
+          [
+            -71.10373626720003,
+            42.37611734130337
+          ],
+          [
+            -71.10252910652089,
+            42.3751129824584
+          ],
+          [
+            -71.10175963682613,
+            42.37447935563444
+          ]
+        ]
+      },
+      "id": 2457,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Beacon",
+        "Potential_R_To": -1,
+        "Potential_L_To": -1,
+        "ToNode": 760,
+        "Label": "Beacon St",
+        "Street_ID": 66,
+        "FromNode": 972,
+        "Direction": "0",
+        "L_To": -1,
+        "R_To": -1,
+        "GlobalID": "{6CDFF46D-A8EF-413B-B769-511F1B57384B}",
+        "Restriction": "F",
+        "Street_Type": "St",
+        "L_From": -1,
+        "Potential_L_From": -1,
+        "Street": "Beacon St",
+        "ROADWAYS": "F",
+        "ID": "Beacon_St_1",
+        "Potential_R_From": -1,
+        "R_From": -1
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.10083740836019,
+            42.37372941244966
+          ],
+          [
+            -71.10112074892776,
+            42.37396295564087
+          ],
+          [
+            -71.10116857433026,
+            42.374002306855004
+          ],
+          [
+            -71.1014985016744,
+            42.374272534236844
+          ],
+          [
+            -71.10175963682613,
+            42.37447935563444
+          ]
+        ]
+      },
+      "id": 2458,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Hampshire",
+        "Potential_R_To": 251,
+        "Potential_L_To": 264,
+        "ToNode": 972,
+        "Label": "Hampshire St",
+        "Street_ID": 359,
+        "MajorRoad": 2,
+        "FromNode": 1089,
+        "Direction": "0",
+        "L_To": 264,
+        "R_To": 251,
+        "GlobalID": "{F7A57F3A-94D2-4954-9DBE-8085F31067B1}",
+        "Street_Type": "St",
+        "L_From": 240,
+        "Restriction": "F",
+        "ZIP_Right": "02139",
+        "Potential_L_From": 240,
+        "ZIP_Left": "02139",
+        "Street": "Hampshire St",
+        "ROADWAYS": "F",
+        "ID": "Hampshi_St_18",
+        "Potential_R_From": 225,
+        "R_From": 225
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.15066237425393,
+            42.39011306775054
+          ],
+          [
+            -71.1526525832294,
+            42.390375689672425
+          ],
+          [
+            -71.15386814322056,
+            42.390529040998196
+          ],
+          [
+            -71.15400745702706,
+            42.39054639082194
+          ]
+        ]
+      },
+      "id": 2497,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Concord",
+        "Potential_R_To": 755,
+        "Potential_L_To": -1,
+        "ToNode": 294,
+        "EditDate": "2012",
+        "Label": "Concord Ave",
+        "Street_ID": 175,
+        "MajorRoad": 2,
+        "FromNode": 313,
+        "Direction": "0",
+        "L_To": -1,
+        "R_To": 755,
+        "GlobalID": "{C95BA0CE-DDF9-4F89-B38A-CA90A6DA4FD4}",
+        "Street_Type": "Ave",
+        "L_From": -1,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": -1,
+        "ZIP_Left": "02138",
+        "Street": "Concord Ave",
+        "ROADWAYS": "F",
+        "ID": "Concord_Ave_28",
+        "Potential_R_From": 689,
+        "R_From": 689
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.13302795948054,
+            42.383348945505176
+          ],
+          [
+            -71.13310179696397,
+            42.38338441992818
+          ],
+          [
+            -71.13397443331739,
+            42.383780149433946
+          ],
+          [
+            -71.13408878261089,
+            42.38383256291511
+          ]
+        ]
+      },
+      "id": 2535,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Concord",
+        "Potential_R_To": 297,
+        "Potential_L_To": 294,
+        "ToNode": 531,
+        "Label": "Concord Ave",
+        "Street_ID": 175,
+        "MajorRoad": 2,
+        "FromNode": 558,
+        "Direction": "0",
+        "L_To": 294,
+        "R_To": 297,
+        "GlobalID": "{6A692C5E-EAC8-4103-8AC6-4CF5CB226BD9}",
+        "Street_Type": "Ave",
+        "L_From": 266,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 266,
+        "ZIP_Left": "02138",
+        "Street": "Concord Ave",
+        "ROADWAYS": "F",
+        "ID": "Concord_Ave_13",
+        "Potential_R_From": 267,
+        "R_From": 267
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.09376392458985,
+            42.37147471385352
+          ],
+          [
+            -71.09367776947009,
+            42.37170136192322
+          ],
+          [
+            -71.09357385802159,
+            42.371977213662404
+          ],
+          [
+            -71.0935372014096,
+            42.372072413387386
+          ]
+        ]
+      },
+      "id": 2537,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Windsor",
+        "Potential_R_To": 454,
+        "Potential_L_To": 457,
+        "ToNode": 1224,
+        "Label": "Windsor St",
+        "Street_ID": 822,
+        "FromNode": 1291,
+        "Direction": "-1",
+        "L_To": 457,
+        "R_To": 454,
+        "GlobalID": "{A09343E7-52BE-4D87-99C5-7A5CE09F7EAF}",
+        "Street_Type": "St",
+        "L_From": 433,
+        "Restriction": "T",
+        "ZIP_Right": "02141",
+        "Potential_L_From": 433,
+        "ZIP_Left": "02141",
+        "Street": "Windsor St",
+        "ROADWAYS": "F",
+        "ID": "Windsor_St_15",
+        "Potential_R_From": 430,
+        "R_From": 430
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0938097753824,
+            42.371355223693875
+          ],
+          [
+            -71.093804872992,
+            42.37136947558652
+          ],
+          [
+            -71.09376392458985,
+            42.37147471385352
+          ]
+        ]
+      },
+      "id": 2539,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Windsor",
+        "Potential_R_To": -1,
+        "Potential_L_To": -1,
+        "ToNode": 1291,
+        "Label": "Windsor St",
+        "Street_ID": 822,
+        "FromNode": 1295,
+        "Direction": "-1",
+        "L_To": -1,
+        "R_To": -1,
+        "GlobalID": "{F1566D4F-ADEB-4C8C-911D-7BDFCA0F0533}",
+        "Street_Type": "St",
+        "L_From": -1,
+        "Restriction": "F",
+        "ZIP_Right": "02141",
+        "Potential_L_From": -1,
+        "ZIP_Left": "02141",
+        "Street": "Windsor St",
+        "ROADWAYS": "F",
+        "ID": "Windsor_St_14",
+        "Potential_R_From": -1,
+        "R_From": -1
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.12153455848286,
+            42.379777984275435
+          ],
+          [
+            -71.121697339922,
+            42.37975357608442
+          ]
+        ]
+      },
+      "id": 2552,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Chauncy",
+        "Potential_R_To": -1,
+        "Potential_L_To": -1,
+        "ToNode": 2246,
+        "EditDate": "2014",
+        "Label": "Chauncy St",
+        "Street_ID": 150,
+        "MajorRoad": 2,
+        "FromNode": 701,
+        "Direction": "-1",
+        "L_To": -1,
+        "R_To": -1,
+        "GlobalID": "{5A8603D6-970E-409C-9674-281D0FECEEA7}",
+        "Street_Type": "St",
+        "L_From": -1,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": -1,
+        "ZIP_Left": "02138",
+        "Street": "Chauncy St",
+        "ROADWAYS": "F",
+        "ID": "Chauncy_St_5",
+        "Potential_R_From": -1,
+        "R_From": -1
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.121697339922,
+            42.37975357608442
+          ],
+          [
+            -71.12207463346394,
+            42.37969691628112
+          ]
+        ]
+      },
+      "id": 2553,
+      "type": "Feature",
+      "properties": {
+        "Street_Name": "Chauncy",
+        "Potential_R_To": 11,
+        "Potential_L_To": 12,
+        "ToNode": 702,
+        "EditDate": "2014",
+        "Label": "Chauncy St",
+        "Street_ID": 150,
+        "MajorRoad": 2,
+        "FromNode": 2246,
+        "Direction": "-1",
+        "L_To": 12,
+        "R_To": 11,
+        "GlobalID": "{DA132103-DB03-498B-85CF-D78F8920ACD2}",
+        "Street_Type": "St",
+        "L_From": 12,
+        "Restriction": "F",
+        "ZIP_Right": "02138",
+        "Potential_L_From": 12,
+        "ZIP_Left": "02138",
+        "Street": "Chauncy St",
+        "ROADWAYS": "F",
+        "ID": "Chauncy_St_3",
+        "Potential_R_From": 11,
+        "R_From": 11
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13967526454157,
+          42.38631024642667
+        ]
+      },
+      "id": 424,
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#ff40ff",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09474744436253,
+          42.374289945709336
+        ]
+      },
+      "id": 1056,
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#ff40ff",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13967526454157,
+          42.38631024642667
+        ]
+      },
+      "id": 424,
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#00f900",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09474744436253,
+          42.374289945709336
+        ]
+      },
+      "id": 1056,
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#ff2600",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.15621940096287,
+          42.3940279281588
+        ]
+      },
+      "id": 103,
+      "type": "Feature",
+      "properties": {
+        "Intersection": "Normandy Ave & South Normandy Ave",
+        "IntersectingStreetCount": 2,
+        "P_X": 749031.23,
+        "P_Y": 2968800.96,
+        "NodeNumber": 179,
+        "GlobalID": "{292B4231-6871-484C-A283-81FF7479AF0D}"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11078168408964,
+          42.38229515097606
+        ]
+      },
+      "id": 1486,
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Intersection": "Cardinal Medeiros Ave & Hampshire St & Portland St",
+        "IntersectingStreetCount": 3,
+        "P_X": 766485.86999999,
+        "P_Y": 2958771.26,
+        "NodeNumber": 1670,
+        "GlobalID": "{602100F3-9F32-41E6-8AFC-47D65B0C7EEB}"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09178168408965,
+          42.366295150976065
+        ]
+      },
+      "id": 1486,
+      "type": "Feature",
+      "properties": {
+        "Intersection": "Cardinal Medeiros Ave & Hampshire St & Portland St",
+        "IntersectingStreetCount": 3,
+        "P_X": 766485.86999999,
+        "P_Y": 2958771.26,
+        "NodeNumber": 1670,
+        "GlobalID": "{602100F3-9F32-41E6-8AFC-47D65B0C7EEB}"
+      }
+    }
+  ]
+}
